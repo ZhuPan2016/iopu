@@ -1,0 +1,493 @@
+#EXTM3U
+#EXTINF:-1 group-title="电视节目",CCTV1
+http://39.137.76.32:8089/00/SNM/CHANNEL00000001/index.m3u8
+#EXTINF:-1 group-title="电视节目",山东卫视
+http://39.137.76.32:8089/00/SNM/CHANNEL00000051/index.m3u8
+#EXTINF:-1 group-title="电视节目",山东齐鲁
+http://39.137.76.32:8089/00/SNM/CHANNEL00000052/index.m3u8
+#EXTINF:-1 group-title="电视节目",中国天气
+http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+#EXTINF:-1 group-title="电视节目",地理
+http://39.137.76.32:8089/00/SNM/CHANNEL00000615/index.m3u8
+#EXTINF:-1 group-title="电视节目",爱生活
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000639/index.m3u8
+#EXTINF:-1 group-title="电视节目",陕西农林卫视
+http://39.134.24.24/PLTV/88888888/224/3221225877/index.m3u8
+#EXTINF:-1 group-title="电视节目",CCTV17农业农村
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226442/1.m3u8
+#EXTINF:-1 group-title="电视节目",CCTV2
+http://39.137.76.32:8089/00/SNM/CHANNEL00000002/index.m3u8
+#EXTINF:-1 group-title="电视节目",CCTV3
+http://39.137.76.32:8089/00/SNM/CHANNEL00000003/index.m3u8
+#EXTINF:-1 group-title="电视节目",CCTV4
+http://39.137.76.32:8089/00/SNM/CHANNEL00000004/index.m3u8
+#EXTINF:-1 group-title="电视节目",CCTV5
+http://39.134.24.24/PLTV/88888888/224/3221225758/index.m3u8
+#EXTINF:-1 group-title="电视节目",CCTV6
+http://39.137.76.32:8089/00/SNM/CHANNEL00000006/index.m3u8
+#EXTINF:-1 group-title="电视节目",CCTV7
+http://39.137.76.32:8089/00/SNM/CHANNEL00000007/index.m3u8
+#EXTINF:-1 group-title="电视节目",CCTV8
+http://39.137.76.32:8089/00/SNM/CHANNEL00000008/index.m3u8
+#EXTINF:-1 group-title="电视节目",CCTV9
+http://39.134.24.24/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 group-title="电视节目",CCTV10
+http://39.134.24.24/PLTV/88888888/224/3221225782/index.m3u8
+#EXTINF:-1 group-title="电视节目",CCTV11
+http://39.137.76.32:8089/00/SNM/CHANNEL00000011/index.m3u8
+#EXTINF:-1 group-title="电视节目",CCTV12
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000012/index.m3u8
+#EXTINF:-1 group-title="电视节目",CCTV13
+http://39.137.76.32:8089/00/SNM/CHANNEL00000013/index.m3u8
+#EXTINF:-1 group-title="电视节目",CCTV14
+http://39.137.76.32:8089/00/SNM/CHANNEL00000014/index.m3u8
+#EXTINF:-1 group-title="电视节目",CCTV15
+http://39.137.76.32:8089/00/SNM/CHANNEL00000015/index.m3u8
+#EXTINF:-1 group-title="电视节目",浙江卫视
+http://39.137.76.32:8089/00/SNM/CHANNEL00000016/index.m3u8
+#EXTINF:-1 group-title="电视节目",北京卫视
+http://39.137.76.32:8089/00/SNM/CHANNEL00000019/index.m3u8
+#EXTINF:-1 group-title="电视节目",东方卫视
+http://39.137.76.32:8089/00/SNM/CHANNEL00000022/index.m3u8
+#EXTINF:-1 group-title="电视节目",安徽卫视
+http://39.137.76.32:8089/00/SNM/CHANNEL00000020/index.m3u8
+#EXTINF:-1 group-title="电视节目",江苏卫视
+http://39.137.76.32:8089/00/SNM/CHANNEL00000018/index.m3u8
+#EXTINF:-1 group-title="电视节目",广东卫视
+http://39.137.76.32:8089/00/SNM/CHANNEL00000025/index.m3u8
+#EXTINF:-1 group-title="电视节目",湖南卫视
+http://39.137.76.32:8089/00/SNM/CHANNEL00000017/index.m3u8
+#EXTINF:-1 group-title="电视节目",深圳卫视
+http://39.137.76.32:8089/00/SNM/CHANNEL00000024/index.m3u8
+#EXTINF:-1 group-title="电视节目",天津卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226489/1.m3u8
+#EXTINF:-1 group-title="电视节目",东南卫视
+http://39.137.76.32:8089/00/SNM/CHANNEL00000028/index.m3u8
+#EXTINF:-1 group-title="电视节目",河南卫视
+http://39.137.76.32:8089/00/SNM/CHANNEL00000037/index.m3u8
+#EXTINF:-1 group-title="电视节目",云南卫视
+http://39.137.76.32:8089/00/SNM/CHANNEL00000039/index.m3u8
+#EXTINF:-1 group-title="电视节目",河北卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225881/1.m3u8
+#EXTINF:-1 group-title="电视节目",厦门卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226542/1.m3u8
+#EXTINF:-1 group-title="电视节目",内蒙古卫视
+http://39.137.76.32:8089/00/SNM/CHANNEL00000040/index.m3u8
+#EXTINF:-1 group-title="电视节目",黑龙江卫视
+http://39.137.76.32:8089/00/SNM/CHANNEL00000027/index.m3u8
+#EXTINF:-1 group-title="电视节目",吉林卫视
+http://39.137.76.32:8089/00/SNM/CHANNEL00000036/index.m3u8
+#EXTINF:-1 group-title="电视节目",辽宁卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226336/1.m3u8
+#EXTINF:-1 group-title="电视节目",CCTV发现之旅
+http://39.134.24.24/PLTV/88888888/224/3221225879/index.m3u8
+#EXTINF:-1 group-title="电视节目",CCTV老故事
+http://39.134.24.24/PLTV/88888888/224/3221225881/index.m3u8
+#EXTINF:-1 group-title="电视节目",SiTV七彩戏剧
+http://117.136.154.98/PLTV/88888888/224/3221225613/index.m3u8
+#EXTINF:-1 group-title="电视节目",SiTV东方财经
+http://117.136.154.98/PLTV/88888888/224/3221225612/index.m3u8
+#EXTINF:-1 group-title="电视节目",SiTV全纪实
+http://117.136.154.98/PLTV/88888888/224/3221225792/index.m3u8
+#EXTINF:-1 group-title="电视节目",SiTV动漫秀场
+http://117.136.154.98/PLTV/88888888/224/3221225610/index.m3u8
+#EXTINF:-1 group-title="电视节目",SiTV极速汽车
+http://117.136.154.98/PLTV/88888888/224/3221225614/index.m3u8
+#EXTINF:-1 group-title="电视节目",SiTV法治天地
+http://117.136.154.98/PLTV/88888888/224/3221225609/index.m3u8
+#EXTINF:-1 group-title="电视节目",SiTV游戏风云
+http://117.136.154.68/PLTV/88888888/224/3221225611/index.m3u8
+#EXTINF:-1 group-title="电视节目",SiTV生活时尚
+http://117.136.154.98/PLTV/88888888/224/3221225604/index.m3u8
+#EXTINF:-1 group-title="电视节目",SiTV都市剧场
+http://117.136.154.98/PLTV/88888888/224/3221225606/index.m3u8
+#EXTINF:-1 group-title="电视节目",SiTV金色频道
+http://117.136.154.98/PLTV/88888888/224/3221225803/index.m3u8
+#EXTINF:-1 group-title="电视节目",上海纪实人文
+http://117.136.154.98/PLTV/88888888/224/3221225605/index.m3u8
+#EXTINF:-1 group-title="电视节目",金鹰纪实
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226198/index.m3u8
+#EXTINF:-1 group-title="电视节目",中华美食
+http://39.134.115.163:8080/PLTV/88888910/224/3221225924/index.m3u8
+#EXTINF:-1 group-title="电视节目",山东体育
+http://39.137.76.32:8089/00/SNM/CHANNEL00000057/index.m3u8
+#EXTINF:-1 group-title="电视节目",山东新闻
+http://39.137.76.32:8089/00/SNM/CHANNEL00000053/index.m3u8
+#EXTINF:-1 group-title="电视节目",山东农科
+http://39.137.76.32:8089/00/SNM/CHANNEL00000058/index.m3u8
+#EXTINF:-1 group-title="电视节目",山东少儿
+http://39.137.76.32:8089/00/SNM/CHANNEL00000059/index.m3u8
+#EXTINF:-1 group-title="电视节目",山东文旅
+http://39.137.76.32:8089/00/SNM/CHANNEL00000056/index.m3u8
+#EXTINF:-1 group-title="电视节目",山东生活
+http://39.137.76.32:8089/00/SNM/CHANNEL00000055/index.m3u8
+#EXTINF:-1 group-title="电视节目",山东综艺
+http://39.137.76.32:8089/00/SNM/CHANNEL00000054/index.m3u8
+#EXTINF:-1 group-title="电视节目",山东教育卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225908/1.m3u8
+#EXTINF:-1 group-title="电视节目",宁夏卫视
+http://39.137.76.32:8089/00/SNM/CHANNEL00000043/index.m3u8
+#EXTINF:-1 group-title="电视节目",山西卫视
+http://39.137.76.32:8089/00/SNM/CHANNEL00000032/index.m3u8
+#EXTINF:-1 group-title="电视节目",江西卫视
+http://39.137.76.32:8089/00/SNM/CHANNEL00000035/index.m3u8
+#EXTINF:-1 group-title="电视节目",海南卫视
+http://39.137.76.32:8089/00/SNM/CHANNEL00000030/index.m3u8
+#EXTINF:-1 group-title="电视节目",三沙卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226544/1.m3u8
+#EXTINF:-1 group-title="电视节目",湖北卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226520/1.m3u8
+#EXTINF:-1 group-title="电视节目",甘肃卫视
+http://39.137.76.32:8089/00/SNM/CHANNEL00000046/index.m3u8
+#EXTINF:-1 group-title="电视节目",贵州卫视
+http://39.137.76.32:8089/00/SNM/CHANNEL00000041/index.m3u8
+#EXTINF:-1 group-title="电视节目",重庆卫视
+http://39.137.76.32:8089/00/SNM/CHANNEL00000023/index.m3u8
+#EXTINF:-1 group-title="电视节目",陕西卫视
+http://39.137.76.32:8089/00/SNM/CHANNEL00000029/index.m3u8
+#EXTINF:-1 group-title="电视节目",四川卫视
+http://39.137.76.32:8089/00/SNM/CHANNEL00000033/index.m3u8
+#EXTINF:-1 group-title="电视节目",四川康巴藏语卫视
+http://117.136.154.98/PLTV/88888888/224/3221225546/index.m3u8
+#EXTINF:-1 group-title="电视节目",广西卫视
+http://39.137.76.32:8089/00/SNM/CHANNEL00000038/index.m3u8
+#EXTINF:-1 group-title="电视节目",新疆卫视
+http://39.137.76.32:8089/00/SNM/CHANNEL00000044/index.m3u8
+#EXTINF:-1 group-title="电视节目",新疆兵团卫视
+http://39.134.24.24/PLTV/88888888/224/3221225869/index.m3u8
+#EXTINF:-1 group-title="电视节目",青海卫视
+http://39.137.76.32:8089/00/SNM/CHANNEL00000042/index.m3u8
+#EXTINF:-1 group-title="电视节目",青海安多卫视
+http://39.134.24.24/PLTV/88888888/224/3221225875/index.m3u8
+#EXTINF:-1 group-title="电视节目",西藏卫视
+http://39.137.76.32:8089/00/SNM/CHANNEL00000045/index.m3u8
+#EXTINF:-1 group-title="电视节目",西藏藏语卫视
+http://117.136.154.98/PLTV/88888888/224/3221225553/index.m3u8
+#EXTINF:-1 group-title="电视节目",广东南方卫视
+http://39.134.24.24/PLTV/88888888/224/3221225871/index.m3u8
+#EXTINF:-1 group-title="电视节目",IPTV3+
+http://39.134.39.39/270000001322/69900158041111100000002183/index.m3u8
+#EXTINF:-1 group-title="电视节目",IPTV5+
+http://39.134.39.39/270000001322/69900158041111100000002184/index.m3u8
+#EXTINF:-1 group-title="电视节目",IPTV6+
+http://39.134.39.39/270000001322/69900158041111100000002185/index.m3u8
+#EXTINF:-1 group-title="电视节目",IPTV8+
+http://39.134.39.39/270000001322/69900158041111100000002186/index.m3u8
+#EXTINF:-1 group-title="电视节目",IPTV经典电影
+http://39.137.76.32:8089/00/SNM/CHANNEL00000604/index.m3u8
+#EXTINF:-1 group-title="电视节目",IPTV少儿动画
+http://39.137.76.32:8089/00/SNM/CHANNEL00000605/index.m3u8
+#EXTINF:-1 group-title="电视节目",IPTV相声小品
+http://39.137.76.32:8089/00/SNM/CHANNEL00000606/index.m3u8
+#EXTINF:-1 group-title="电视节目",IPTV热播剧场
+http://39.137.76.32:8089/00/SNM/CHANNEL00000608/index.m3u8
+#EXTINF:-1 group-title="电视节目",IPTV魅力时尚
+http://39.137.76.32:8089/00/SNM/CHANNEL00000609/index.m3u8
+#EXTINF:-1 group-title="电视节目",IPTV法制
+http://39.137.76.32:8089/00/SNM/CHANNEL00000638/index.m3u8
+#EXTINF:-1 group-title="电视节目",IPTV野外
+http://39.134.39.39/270000001322/69900158041111100000002195/index.m3u8
+#EXTINF:-1 group-title="电视节目",济南商务
+http://39.137.76.32:8089/00/SNM/CHANNEL00000066/index.m3u8
+#EXTINF:-1 group-title="电视节目",济南图文
+http://39.137.76.32:8089/00/SNM/CHANNEL00000246/index.m3u8
+#EXTINF:-1 group-title="电视节目",济南娱乐
+http://39.137.76.32:8089/00/SNM/CHANNEL00000065/index.m3u8
+#EXTINF:-1 group-title="电视节目",济南少儿
+http://39.137.76.32:8089/00/SNM/CHANNEL00000067/index.m3u8
+#EXTINF:-1 group-title="电视节目",济南影视
+http://39.137.76.32:8089/00/SNM/CHANNEL00000064/index.m3u8
+#EXTINF:-1 group-title="电视节目",济南教育
+http://39.137.76.32:8089/00/SNM/CHANNEL00000069/index.m3u8
+#EXTINF:-1 group-title="电视节目",济南新闻综合
+http://39.137.76.32:8089/00/SNM/CHANNEL00000061/index.m3u8
+#EXTINF:-1 group-title="电视节目",济南生活
+http://39.137.76.32:8089/00/SNM/CHANNEL00000063/index.m3u8
+#EXTINF:-1 group-title="电视节目",济南科教
+http://39.137.76.32:8089/00/SNM/CHANNEL00000245/index.m3u8
+#EXTINF:-1 group-title="电视节目",济南都市
+http://39.137.76.32:8089/00/SNM/CHANNEL00000062/index.m3u8
+#EXTINF:-1 group-title="电视节目",济南鲁中莱芜
+http://39.137.76.32:8089/00/SNM/CHANNEL00000244/index.m3u8
+#EXTINF:-1 group-title="电视节目",青岛1
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000500/index.m3u8
+#EXTINF:-1 group-title="电视节目",青岛2
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000501/index.m3u8
+#EXTINF:-1 group-title="电视节目",青岛3
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000502/index.m3u8
+#EXTINF:-1 group-title="电视节目",青岛4
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000503/index.m3u8
+#EXTINF:-1 group-title="电视节目",青岛5
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000504/index.m3u8
+#EXTINF:-1 group-title="电视节目",青岛6
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000505/index.m3u8
+#EXTINF:-1 group-title="电视节目",寿光新闻
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001000/index.m3u8
+#EXTINF:-1 group-title="电视节目",寿光蔬菜FHD
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001045/index.m3u8
+#EXTINF:-1 group-title="电视节目",中国教育1
+http://117.136.154.68/PLTV/88888888/224/3221225639/index.m3u8
+#EXTINF:-1 group-title="电视节目",中国教育2
+http://39.134.24.24/PLTV/88888888/224/3221225710/index.m3u8
+#EXTINF:-1 group-title="电视节目",中国教育4
+http://39.137.76.32:8089/00/SNM/CHANNEL00000070/index.m3u8
+#EXTINF:-1 group-title="电视节目",陕西影视
+http://39.134.24.24/PLTV/88888888/224/3221225997/index.m3u8
+#EXTINF:-1 group-title="电视节目",陕西西部电影
+http://39.134.24.24/PLTV/88888888/224/3221225993/index.m3u8
+#EXTINF:-1 group-title="电视节目",陕西都市青春
+http://39.134.24.24/PLTV/88888888/224/3221225999/index.m3u8
+#EXTINF:-1 group-title="电视节目",西安新闻综合频道
+http://39.134.24.24/PLTV/88888888/224/3221225991/index.m3u8
+#EXTINF:-1 group-title="电视节目",西安商务资讯频道
+http://39.134.24.24/PLTV/88888888/224/3221225989/index.m3u8
+#EXTINF:-1 group-title="电视节目",西安丝路频道
+http://39.134.24.24/PLTV/88888888/224/3221225987/index.m3u8
+#EXTINF:-1 group-title="电视节目",湖南先锋乒羽
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226851/index.m3u8
+#EXTINF:-1 group-title="电视节目",湖南茶频道
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226859/index.m3u8
+#EXTINF:-1 group-title="电视节目",百视通轮播(港剧)
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226991/index.m3u8
+#EXTINF:-1 group-title="电视节目",百视通轮播(棋牌)
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227041/index.m3u8
+#EXTINF:-1 group-title="电视节目",百视通轮播(运动)
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227044/index.m3u8
+#EXTINF:-1 group-title="电视节目",百视通轮播(演出)
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227049/index.m3u8
+#EXTINF:-1 group-title="电视节目",CGTN
+http://39.137.76.32:8089/00/SNM/CHANNEL00000009/index.m3u8
+#EXTINF:-1 group-title="电视节目",喜剧影院
+http://39.137.76.32:8089/00/SNM/CHANNEL00000602/index.m3u8
+#EXTINF:-1 group-title="电视节目",动作影院
+http://39.137.76.32:8089/00/SNM/CHANNEL00000603/index.m3u8
+#EXTINF:-1 group-title="电视节目",江苏财富天下
+http://39.137.76.32:8089/00/SNM/CHANNEL00000607/index.m3u8
+#EXTINF:-1 group-title="电视节目",墨宝
+http://39.137.76.32:8089/00/SNM/CHANNEL00000610/index.m3u8
+#EXTINF:-1 group-title="电视节目",光影
+http://39.137.76.32:8089/00/SNM/CHANNEL00000611/index.m3u8
+#EXTINF:-1 group-title="电视节目",美人
+http://39.137.76.32:8089/00/SNM/CHANNEL00000612/index.m3u8
+#EXTINF:-1 group-title="电视节目",音乐现场
+http://39.137.76.32:8089/00/SNM/CHANNEL00000613/index.m3u8
+#EXTINF:-1 group-title="电视节目",城市剧场
+http://39.137.76.32:8089/00/SNM/CHANNEL00000614/index.m3u8
+#EXTINF:-1 group-title="电视节目",美妆
+http://39.137.76.32:8089/00/SNM/CHANNEL00000616/index.m3u8
+#EXTINF:-1 group-title="电视节目",军旅剧场
+http://39.137.76.32:8089/00/SNM/CHANNEL00000617/index.m3u8
+#EXTINF:-1 group-title="电视节目",足球
+http://39.137.76.32:8089/00/SNM/CHANNEL00000618/index.m3u8
+#EXTINF:-1 group-title="电视节目",高尔夫网球
+http://39.137.76.32:8089/00/SNM/CHANNEL00000620/index.m3u8
+#EXTINF:-1 group-title="电视节目",精选
+http://39.137.76.32:8089/00/SNM/CHANNEL00000621/index.m3u8
+#EXTINF:-1 group-title="电视节目",古装剧场
+http://39.137.76.32:8089/00/SNM/CHANNEL00000622/index.m3u8
+#EXTINF:-1 group-title="电视节目",解密
+http://39.137.76.32:8089/00/SNM/CHANNEL00000624/index.m3u8
+#EXTINF:-1 group-title="电视节目",动画
+http://39.137.76.32:8089/00/SNM/CHANNEL00000625/index.m3u8
+#EXTINF:-1 group-title="电视节目",早教
+http://39.137.76.32:8089/00/SNM/CHANNEL00000627/index.m3u8
+#EXTINF:-1 group-title="电视节目",台球
+http://39.137.76.32:8089/00/SNM/CHANNEL00000628/index.m3u8
+#EXTINF:-1 group-title="电视节目",好学生
+http://39.137.76.32:8089/00/SNM/CHANNEL00000629/index.m3u8
+#EXTINF:-1 group-title="电视节目",武术
+http://39.137.76.32:8089/00/SNM/CHANNEL00000634/index.m3u8
+#EXTINF:-1 group-title="电视节目",家庭影院
+http://39.137.76.32:8089/00/SNM/CHANNEL00000635/index.m3u8
+#EXTINF:-1 group-title="电视节目",国学
+http://39.137.76.32:8089/00/SNM/CHANNEL00000636/index.m3u8
+#EXTINF:-1 group-title="电视节目",四海钓鱼
+http://39.137.76.32:8089/00/SNM/CHANNEL00000640/index.m3u8
+#EXTINF:-1 group-title="电视节目",北广优优宝贝
+http://39.137.76.32:8089/00/SNM/CHANNEL00000641/index.m3u8
+#EXTINF:-1 group-title="电视节目",车迷频道
+http://39.137.76.32:8089/00/SNM/CHANNEL00000645/index.m3u8
+#EXTINF:-1 group-title="电视节目",江苏优漫卡通
+http://39.137.76.32:8089/00/SNM/CHANNEL00000049/index.m3u8
+#EXTINF:-1 group-title="电视节目",上海哈哈炫动
+http://39.137.76.32:8089/00/SNM/CHANNEL00000050/index.m3u8
+#EXTINF:-1 group-title="电视节目",湖南金鹰卡通
+http://39.137.76.32:8089/00/SNM/CHANNEL00000047/index.m3u8
+#EXTINF:-1 group-title="电视节目",北京卡酷少儿
+http://39.137.76.32:8089/00/SNM/CHANNEL00000048/index.m3u8
+#EXTINF:-1 group-title="电视节目",莒县1
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001014/index.m3u8
+#EXTINF:-1 group-title="电视节目",奎文
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001027/index.m3u8
+#EXTINF:-1 group-title="电视节目",蒙阴1
+http://39.137.76.32:8089/00/SNM/CHANNEL00001031/index.m3u8
+#EXTINF:-1 group-title="电视节目",新泰乡村
+http://39.137.76.32:8089/00/SNM/CHANNEL00001066/index.m3u8
+#EXTINF:-1 group-title="电视节目",新泰新闻综合
+http://39.137.76.32:8089/00/SNM/CHANNEL00001029/index.m3u8
+#EXTINF:-1 group-title="电视节目",新矿新闻综合
+http://39.137.76.32:8089/00/SNM/CHANNEL00000268/index.m3u8
+#EXTINF:-1 group-title="电视节目",东明新闻综合
+http://39.137.76.32:8089/00/SNM/CHANNEL00001065/index.m3u8
+#EXTINF:-1 group-title="电视节目",东营公共
+http://39.137.76.32:8089/00/SNM/CHANNEL00000227/index.m3u8
+#EXTINF:-1 group-title="电视节目",东营新闻综合
+http://39.137.76.32:8089/00/SNM/CHANNEL00000226/index.m3u8
+#EXTINF:-1 group-title="电视节目",临沂公共
+http://39.137.76.32:8089/00/SNM/CHANNEL00000256/index.m3u8
+#EXTINF:-1 group-title="电视节目",临沂农科
+http://39.137.76.32:8089/00/SNM/CHANNEL00000121/index.m3u8
+#EXTINF:-1 group-title="电视节目",兰陵综合
+http://39.137.76.32:8089/00/SNM/CHANNEL00001032/index.m3u8
+#EXTINF:-1 group-title="电视节目",冠县综合
+http://39.137.76.32:8089/00/SNM/CHANNEL00001040/index.m3u8
+#EXTINF:-1 group-title="电视节目",博山新闻
+http://39.137.76.32:8089/00/SNM/CHANNEL00001013/index.m3u8
+#EXTINF:-1 group-title="电视节目",商河综合
+http://39.137.76.32:8089/00/SNM/CHANNEL00001008/index.m3u8
+#EXTINF:-1 group-title="电视节目",定陶1
+http://39.137.76.32:8089/00/SNM/CHANNEL00001063/index.m3u8
+#EXTINF:-1 group-title="电视节目",平阴综合
+http://39.137.76.32:8089/00/SNM/CHANNEL00001050/index.m3u8
+#EXTINF:-1 group-title="电视节目",张店
+http://39.137.76.32:8089/00/SNM/CHANNEL00001012/index.m3u8
+#EXTINF:-1 group-title="电视节目",无棣综合
+http://39.137.76.32:8089/00/SNM/CHANNEL00001024/index.m3u8
+#EXTINF:-1 group-title="电视节目",曲阜新闻综合
+http://39.137.76.32:8089/00/SNM/CHANNEL00001052/index.m3u8
+#EXTINF:-1 group-title="电视节目",枣庄教育
+http://39.137.76.32:8089/00/SNM/CHANNEL00001026/index.m3u8
+#EXTINF:-1 group-title="电视节目",枣庄新闻综合
+http://39.137.76.32:8089/00/SNM/CHANNEL00001025/index.m3u8
+#EXTINF:-1 group-title="电视节目",桓台1
+http://39.137.76.32:8089/00/SNM/CHANNEL00001020/index.m3u8
+#EXTINF:-1 group-title="电视节目",沂源新闻
+http://39.137.76.32:8089/00/SNM/CHANNEL00001002/index.m3u8
+#EXTINF:-1 group-title="电视节目",沾化综合
+http://39.137.76.32:8089/00/SNM/CHANNEL00001035/index.m3u8
+#EXTINF:-1 group-title="电视节目",泰安公共
+http://39.137.76.32:8089/00/SNM/CHANNEL00000270/index.m3u8
+#EXTINF:-1 group-title="电视节目",济宁教育
+http://39.137.76.32:8089/00/SNM/CHANNEL00000239/index.m3u8
+#EXTINF:-1 group-title="电视节目",济宁综合
+http://39.137.76.32:8089/00/SNM/CHANNEL00000238/index.m3u8
+#EXTINF:-1 group-title="电视节目",济阳综合
+http://39.137.76.32:8089/00/SNM/CHANNEL00001030/index.m3u8
+#EXTINF:-1 group-title="电视节目",淄博科教
+http://39.137.76.32:8089/00/SNM/CHANNEL00000295/index.m3u8
+#EXTINF:-1 group-title="电视节目",淄博都市
+http://39.137.76.32:8089/00/SNM/CHANNEL00000293/index.m3u8
+#EXTINF:-1 group-title="电视节目",淄川1
+http://39.137.76.32:8089/00/SNM/CHANNEL00001019/index.m3u8
+#EXTINF:-1 group-title="电视节目",淄川新闻
+http://39.137.76.32:8089/00/SNM/CHANNEL00001007/index.m3u8
+#EXTINF:-1 group-title="电视节目",滕州综合
+http://39.137.76.32:8089/00/SNM/CHANNEL00001028/index.m3u8
+#EXTINF:-1 group-title="电视节目",滨州公共
+http://39.137.76.32:8089/00/SNM/CHANNEL00000221/index.m3u8
+#EXTINF:-1 group-title="电视节目",滨州新闻综合
+http://39.137.76.32:8089/00/SNM/CHANNEL00000220/index.m3u8
+#EXTINF:-1 group-title="电视节目",聊城公共
+http://39.137.76.32:8089/00/SNM/CHANNEL00000251/index.m3u8
+#EXTINF:-1 group-title="电视节目",聊城综合
+http://39.137.76.32:8089/00/SNM/CHANNEL00000250/index.m3u8
+#EXTINF:-1 group-title="电视节目",莒南综合
+http://39.137.76.32:8089/00/SNM/CHANNEL00001011/index.m3u8
+#EXTINF:-1 group-title="电视节目",菏泽新闻综合
+http://39.137.76.32:8089/00/SNM/CHANNEL00000232/index.m3u8
+#EXTINF:-1 group-title="电视节目",菏泽经济生活
+http://39.137.76.32:8089/00/SNM/CHANNEL00000234/index.m3u8
+#EXTINF:-1 group-title="电视节目",金乡新闻
+http://39.137.76.32:8089/00/SNM/CHANNEL00001034/index.m3u8
+#EXTINF:-1 group-title="电视节目",长清新闻
+http://39.137.76.32:8089/00/SNM/CHANNEL00001018/index.m3u8
+#EXTINF:-1 group-title="电视节目",阳信新闻综合
+http://39.137.76.32:8089/00/SNM/CHANNEL00001036/index.m3u8
+#EXTINF:-1 group-title="电视节目",高青综合
+http://39.137.76.32:8089/00/SNM/CHANNEL00001023/index.m3u8
+#EXTINF:-1 group-title="电视节目",五莲新闻综合
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001068/index.m3u8
+#EXTINF:-1 group-title="电视节目",平度新闻综合
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001054/index.m3u8
+#EXTINF:-1 group-title="电视节目",栖霞综合
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001055/index.m3u8
+#EXTINF:-1 group-title="国家孩子", 第1集
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/4e7d8604d95f4b7282ea923104cec518/850.m3u8
+#EXTINF:-1 group-title="国家孩子", 第2集
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/d6feb34319cb4b9c895c358aceb87b87/850.m3u8
+#EXTINF:-1 group-title="国家孩子", 第3集
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/cf8a029d82dc4c89bb36eef5ae997c2f/850.m3u8
+#EXTINF:-1 group-title="国家孩子", 第4集
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/75cc355cd10a46f286e093e150054f6b/850.m3u8
+#EXTINF:-1 group-title="国家孩子", 第5集
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/f9c2db8de8b74b45b68db12618c3f2c6/850.m3u8
+#EXTINF:-1 group-title="国家孩子", 第6集
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c7399d4b1af54077938d8f2810594db0/850.m3u8
+#EXTINF:-1 group-title="国家孩子", 第7集
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/44aaae035b8045f89a38f68a855e888a/850.m3u8
+#EXTINF:-1 group-title="国家孩子", 第8集
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/ee30453f98e14903b75d299692060413/850.m3u8
+#EXTINF:-1 group-title="国家孩子", 第9集
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/063e4ab674b2484bb0998c438266044e/850.m3u8
+#EXTINF:-1 group-title="国家孩子", 第10集
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/15a8aa40189c474b82362f37bae9ad82/850.m3u8
+#EXTINF:-1 group-title="国家孩子", 第11集
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/926ec8c20c5c4861b313763cd9b3c008/850.m3u8
+#EXTINF:-1 group-title="国家孩子", 第12集
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/78bed92a0b834216a4ae8c414d5377eb/850.m3u8
+#EXTINF:-1 group-title="国家孩子", 第13集
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/8e91b84c262d4fc38c8f2165af2b1c2d/850.m3u8
+#EXTINF:-1 group-title="国家孩子", 第14集
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/0c61f0341e084597ac0d631c3e8ded7b/850.m3u8
+#EXTINF:-1 group-title="国家孩子", 第15集
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/18d22a7435e6447a9009cc651d8d5f97/850.m3u8
+#EXTINF:-1 group-title="国家孩子", 第16集
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/e8dd6551578b466db80a2329d17fe198/850.m3u8
+#EXTINF:-1 group-title="国家孩子", 第17集
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/2f6c0f7b9ece466ca0555bafcb68bca9/850.m3u8
+#EXTINF:-1 group-title="国家孩子", 第18集
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/e430985b540649abaa4f640124603644/850.m3u8
+#EXTINF:-1 group-title="国家孩子", 第19集
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/77fbd108847e4faabbd3663c7d02d841/850.m3u8
+#EXTINF:-1 group-title="国家孩子", 第20集
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/4c12ec6c462340cbbc8e0b2b633922b6/850.m3u8
+#EXTINF:-1 group-title="国家孩子", 第21集
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/b41d2597c9e845e1947de5b42bf14701/850.m3u8
+#EXTINF:-1 group-title="国家孩子", 第22集
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/4a7d1793f05b4bb0bf38215bbcba3485/850.m3u8
+#EXTINF:-1 group-title="国家孩子", 第23集
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/117c624f82e6473c9934860a56da1c44/850.m3u8
+#EXTINF:-1 group-title="国家孩子", 第24集
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/9412f22490c24fac98266b2e5f542ce7/850.m3u8
+#EXTINF:-1 group-title="国家孩子", 第25集
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/6ffde7019c2b433dafebff564520aac0/850.m3u8
+#EXTINF:-1 group-title="国家孩子", 第26集
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/e37ed2aef5274e0ab81b2145cee3ca2e/850.m3u8
+#EXTINF:-1 group-title="国家孩子", 第27集
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/7bff29e8e2e44ee1873003d8a78a7ebe/850.m3u8
+#EXTINF:-1 group-title="国家孩子", 第28集
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/076292738b65402ab8d896e57f05aaea/850.m3u8
+#EXTINF:-1 group-title="国家孩子", 第29集
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/fe047c127b174563a354e40861eae694/850.m3u8
+#EXTINF:-1 group-title="国家孩子", 第30集
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/56eee7b438ae4c5a954928fa0cc7b411/850.m3u8
+#EXTINF:-1 group-title="国家孩子", 第31集
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/027629ae14ad4f6190370f17792f1e90/850.m3u8
+#EXTINF:-1 group-title="国家孩子", 第32集
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/59cd2044152941d79775a09c9b39998c/850.m3u8
+#EXTINF:-1 group-title="国家孩子", 第33集
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/b0c21e4625ad4f8ca4ba3463703d0b29/850.m3u8
+#EXTINF:-1 group-title="国家孩子", 第34集
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/e1ab318810dd46019d48eb009b7c6f89/850.m3u8
+#EXTINF:-1 group-title="国家孩子", 第35集
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/4b145dad045b425a80a9fb49b2196dce/850.m3u8
+#EXTINF:-1 group-title="国家孩子", 第36集
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/bd566ac3b00e4b678e97882446a4774e/850.m3u8
+#EXTINF:-1 group-title="国家孩子", 第37集
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/b5a50cbc333a4a24b2f32179f60a7ff2/850.m3u8
+#EXTINF:-1 group-title="国家孩子", 第38集
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/d0887915f45e4dae859831a34795ea81/850.m3u8
+#EXTINF:-1 group-title="国家孩子", 第39集
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/1c8b1184e1c34ec7959491325107d974/850.m3u8
+#EXTINF:-1 group-title="国家孩子", 第40集（大结局）
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/9bd128c1b9fc4bbc807b2671d151707d/850.m3u8
