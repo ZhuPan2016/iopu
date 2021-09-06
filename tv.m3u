@@ -379,8 +379,6 @@ http://39.137.76.32:8089/00/SNM/CHANNEL00001030/index.m3u8
 http://39.137.76.32:8089/00/SNM/CHANNEL00000295/index.m3u8
 #EXTINF:-1 group-title="电视节目",淄博都市
 http://39.137.76.32:8089/00/SNM/CHANNEL00000293/index.m3u8
-#EXTINF:-1 group-title="电视节目",安丘新闻综合
-http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001015/index.m3u8
 #EXTINF:-1 group-title="电视节目",诸城新闻综合
 http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001004/index.m3u8
 #EXTINF:-1 group-title="电视节目",日照新闻综合
