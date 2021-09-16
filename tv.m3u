@@ -307,16 +307,12 @@ http://39.137.76.32:8089/00/SNM/CHANNEL00000617/index.m3u8
 http://39.137.76.32:8089/00/SNM/CHANNEL00000618/index.m3u8
 #EXTINF:-1 group-title="电视节目",高尔夫网球
 http://39.137.76.32:8089/00/SNM/CHANNEL00000620/index.m3u8
-#EXTINF:-1 group-title="电视节目",精选
-http://39.137.76.32:8089/00/SNM/CHANNEL00000621/index.m3u8
 #EXTINF:-1 group-title="电视节目",古装剧场
 http://39.137.76.32:8089/00/SNM/CHANNEL00000622/index.m3u8
 #EXTINF:-1 group-title="电视节目",解密
 http://39.137.76.32:8089/00/SNM/CHANNEL00000624/index.m3u8
 #EXTINF:-1 group-title="电视节目",动画
 http://39.137.76.32:8089/00/SNM/CHANNEL00000625/index.m3u8
-#EXTINF:-1 group-title="电视节目",早教
-http://39.137.76.32:8089/00/SNM/CHANNEL00000627/index.m3u8
 #EXTINF:-1 group-title="电视节目",台球
 http://39.137.76.32:8089/00/SNM/CHANNEL00000628/index.m3u8
 #EXTINF:-1 group-title="电视节目",好学生
