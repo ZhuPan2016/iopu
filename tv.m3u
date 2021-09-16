@@ -105,6 +105,8 @@ http://39.137.76.32:8089/00/SNM/CHANNEL00000029/index.m3u8
 http://39.137.76.32:8089/00/SNM/CHANNEL00000033/index.m3u8
 #EXTINF:-1 group-title="电视节目",广西卫视
 http://39.137.76.32:8089/00/SNM/CHANNEL00000038/index.m3u8
+#EXTINF:-1 group-title="电视节目",延边卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226023/index.m3u8
 #EXTINF:-1 group-title="电视节目",新疆卫视
 http://39.137.76.32:8089/00/SNM/CHANNEL00000044/index.m3u8
 #EXTINF:-1 group-title="电视节目",新疆兵团卫视
@@ -253,14 +255,36 @@ http://39.137.76.32:8089/00/SNM/CHANNEL00000070/index.m3u8
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226851/index.m3u8
 #EXTINF:-1 group-title="电视节目",湖南茶频道
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226859/index.m3u8
-#EXTINF:-1 group-title="电视节目",百视通轮播(港剧)
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226991/index.m3u8
-#EXTINF:-1 group-title="电视节目",百视通轮播(棋牌)
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227041/index.m3u8
-#EXTINF:-1 group-title="电视节目",百视通轮播(运动)
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227044/index.m3u8
-#EXTINF:-1 group-title="电视节目",百视通轮播(演出)
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227049/index.m3u8
+#EXTINF:-1 group-title="电视节目",黑龙江新闻法治 576
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226039/index.m3u8
+#EXTINF:-1 group-title="电视节目",黑龙江公共农业 576
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226042/index.m3u8
+#EXTINF:-1 group-title="电视节目",黑龙江少儿 576
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226028/index.m3u8
+#EXTINF:-1 group-title="电视节目",黑龙江影视 576
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226022/index.m3u8
+#EXTINF:-1 group-title="电视节目",黑龙江文体 576
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226025/index.m3u8
+#EXTINF:-1 group-title="电视节目",黑龙江都市 576
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226036/index.m3u8
+#EXTINF:-1 group-title="电视节目",哈尔滨娱乐 4M576
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225759/index.m3u8
+#EXTINF:-1 group-title="电视节目",哈尔滨影视 4M576
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225760/index.m3u8
+#EXTINF:-1 group-title="电视节目",哈尔滨生活 4M576
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225762/index.m3u8
+#EXTINF:-1 group-title="电视节目",哈尔滨资讯 4M576
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8
+#EXTINF:-1 group-title="电视节目",七台河公共 576
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226006/index.m3u8
+#EXTINF:-1 group-title="电视节目",七台河新闻综合 576
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226003/index.m3u8
+#EXTINF:-1 group-title="电视节目",大庆公共 576
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225767/index.m3u8
+#EXTINF:-1 group-title="电视节目",鹤岗新闻综合 576
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226001/index.m3u8
+#EXTINF:-1 group-title="电视节目",鹤岗公共 576
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226004/index.m3u8
 #EXTINF:-1 group-title="电视节目",CGTN
 http://39.137.76.32:8089/00/SNM/CHANNEL00000009/index.m3u8
 #EXTINF:-1 group-title="电视节目",喜剧影院
