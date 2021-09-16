@@ -246,15 +246,11 @@ http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL
 #EXTINF:-1 group-title="电视节目",寿光蔬菜FHD
 http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001045/index.m3u8
 #EXTINF:-1 group-title="电视节目",中国教育1
-http://117.136.154.68/PLTV/88888888/224/3221225639/index.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226538/1.m3u8
 #EXTINF:-1 group-title="电视节目",中国教育2
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226537/1.m3u8
 #EXTINF:-1 group-title="电视节目",中国教育4
 http://39.137.76.32:8089/00/SNM/CHANNEL00000070/index.m3u8
-#EXTINF:-1 group-title="电视节目",湖南先锋乒羽
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226851/index.m3u8
-#EXTINF:-1 group-title="电视节目",湖南茶频道
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226859/index.m3u8
 #EXTINF:-1 group-title="电视节目",黑龙江新闻法治 576
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226039/index.m3u8
 #EXTINF:-1 group-title="电视节目",黑龙江公共农业 576
