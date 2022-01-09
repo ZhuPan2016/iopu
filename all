@@ -22,7 +22,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000007/index.m3u8
 #EXTINF:-1 group-title="流畅",CCTV8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000008/index.m3u8
 #EXTINF:-1 group-title="流畅",CCTV9
-http://183.207.248.172/ott.js.chinamobile.com/PLTV/3/224/3221225868/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225758/index.m3u8
 #EXTINF:-1 group-title="流畅",CCTV10
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225777/index.m3u8
 #EXTINF:-1 group-title="流畅",CCTV11
@@ -377,13 +377,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000338/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000331/index.m3u8
 #EXTINF:-1 group-title="高清节目",SiTV全纪实
 http://183.207.249.175/ott.js.chinamobile.com/PLTV/3/224/3221227771/index.m3u8
-#EXTINF:-1 group-title="高清节目",SiTV动漫秀场
-http://223.110.245.146/ott.js.chinamobile.com/PLTV/3/224/3221227774/index.m3u8
-#EXTINF:-1 group-title="高清节目",SiTV游戏风云
-http://183.207.248.111/ott.js.chinamobile.com/PLTV/3/224/3221227713/index.m3u8
-#EXTINF:-1 group-title="高清节目",SiTV生活时尚
-http://183.207.248.105/ott.js.chinamobile.com/PLTV/3/224/3221227707/index.m3u8
-#EXTINF:-1 group-title="高清节目",SiTV都市剧场
+XTINF:-1 group-title="高清节目",SiTV都市剧场
 http://223.110.236.12/ott.js.chinamobile.com/PLTV/3/224/3221227710/index.m3u8
 #EXTINF:-1 group-title="高清节目",NewTV潮妈辣婆
 http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227527/index.m3u8
@@ -425,12 +419,8 @@ http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227594/index.m3u8
 http://223.110.236.13/ott.js.chinamobile.com/PLTV/3/224/3221227768/index.m3u8
 #EXTINF:-1 group-title="高清节目",上海纪实人文 5.5M1080HEVC
 http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227674/index.m3u8
-#EXTINF:-1 group-title="高清节目",上海纪实人文
-http://223.110.235.18/ott.js.chinamobile.com/PLTV/3/224/3221227635/index.m3u8
 #EXTINF:-1 group-title="高清节目",北京冬奥纪实 5.5M1080HEVC
 http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221227711/index.m3u8
-#EXTINF:-1 group-title="高清节目",北京冬奥纪实
-http://183.207.249.208/ott.js.chinamobile.com/PLTV/3/224/3221227699/index.m3u8
 #EXTINF:-1 group-title="高清节目",湖南快乐垂钓
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000648/index.m3u8
 #EXTINF:-1 group-title="高清节目",湖南茶
@@ -511,7 +501,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001059/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001060/index.m3u8
 #EXTINF:-1 group-title="高清节目",潍坊新闻
 http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000215/index.m3u8
-#EXTINF:-1 group-title="高清节目",潍坊经济 576
+#EXTINF:-1 group-title="高清节目",潍坊经济
 http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000216/index.m3u8
 #EXTINF:-1 group-title="高清节目",泰安公共
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000270/index.m3u8
