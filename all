@@ -1517,6 +1517,448 @@ http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/68071e5947344ba0a0a6
 http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/8453a2bd4e51475f9ef8a5c235b38e20/850.m3u8
 #EXTINF:-1 group-title="彩椒种植",辣椒优良品种介绍(20130410)
 http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/3375b4c9afb04bd2b762b5b6a8830e10/850.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",黑龙江塔河篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/6bdacc69ca434742b531b184e25fe838/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",黑龙江呼玛篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/3a3a9b88d6be46dbaf34c3e9d259f2fd/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",黑龙江明水篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/6f64474a513542dab22c8c23cd9ea82a/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",黑龙江萝北篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/e094871ebad14442a942f895a80494a9/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",黑龙江北安篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/3d7fe235958d422385ccb0193d314690/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",黑龙江海林篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/dd2c398779e6486a9c5d72dc9326c9c3/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",黑龙江庆安篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/0ea1563f5be14dacb54cd6376dfe2a0c/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",黑龙江林甸篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/2c7c683464c74af29aa81ceaee83665f/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",黑龙江抚远篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/b1fc700bd1c9456cac76436d7f4c3370/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",黑龙江漠河篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/e135a80f7b5c4366acbf3fb79cb0ae58/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",黑龙江嘉荫篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/2934934fa27c46e9a3b08b0752e4299b/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",吉林通化篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/1e2c8fbb44b84224aeb2dcb9777a8671/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",吉林桦甸篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/3beb2d65171049c9b41d334c43f3d2ae/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",吉林临江篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/8fb87a88c7254b1bb06beae66f10397b/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",吉林舒兰篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/308c7100ccbd456c8c5378d63f5d444b/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",吉林前郭篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/6a8a133ea3e942c58d34671dbe3192f2/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",吉林珲春篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/df9e81345b0244c987c5d9bbf41ec03b/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",吉林蛟河篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/9746786f86534018bd9e0ab1e6abe8fe/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",吉林抚松篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/4251bf377ec14b4aadfb508feb63d57c/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",吉林安图篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/effb926f3a2d470d8dda7b21cb271ec7/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",吉林集安篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/837bbd781195442eb32a657711caa294/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",辽宁凌源篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/50b2515ba0a14d28950f345b0b59f80f/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",辽宁北票篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/e4d76c738cec489f801db5f6488ad64b/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",辽宁凌海篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/22edd4936e87494ab5e9cde095624d05/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",辽宁本溪篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/16c802f00e374008984a754c3f6e7dd2/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",辽宁盖州篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/f8e6f3ef2f804965b054113f4ad3a6f3/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",辽宁建平篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/1abd8204e6b84c2bb716556ca0ac300a/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",辽宁义县篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/6bf89fd7aed3428f829f3c442327a21e/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",辽宁绥中篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/6c602010ea914fd587762451e349abaa/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",辽宁大石桥篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/075b26e4e24f4b7193f6c639c40a9f52/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",辽宁北镇篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/c933f23da29a4af1b064f2cdfee91c0f/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",辽宁新民篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/52c291be1beb4afaa069f3fd89476107/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",辽宁海城篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/df231969dd5845289450500a15028d3b/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",辽宁兴城篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/9af5d0842be94450b7ed7e348f1ac703/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",辽宁岫岩篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/27bfc3ca6c2148f49f5917b7b6c0226f/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北涞水篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/0edc54f67e854a45afd9f61f3f0745ec/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北安平篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/2c04b3070308464d9076fff81e15a5c2/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北三河篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/789e473a3a5c4085906748631dcab191/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北河间篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/0973439068e047ae8adf9fe5127b8561/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北献县篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/c8c09123d6b541698a7eb9b6e52a2d53/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北吴桥篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/9f2460b44343472f9f87cbee7e870b46/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北元氏篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/43f82078375142d6b766e94269ed9a2e/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北饶阳篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/34286cfae97c4cb28ecf500ac0fbc42c/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北孟村篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/85259a4534634458aad66d43be1ae256/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北兴隆篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/b193eb469f574d6db6be0d7b7f5c8eec/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北辛集篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d3c456d25a984401a6da0d518bfc131a/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北康保篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/341ee2c99dca4843a1991de823d4faee/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北宽城篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/38b5b6042444449c927f6c8ec7f6200a/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽", 河北高碑店篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/8b037d31aca942e6bef86c5c18320d31/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北泊头篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/12a195433bd44ddf93e809155e6e96a8/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北尚义篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/f98c582362b44cbeb6c2b3801dbe0ae5/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北卢龙篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/0ce40668b7164a05a7d3e3f0cad73496/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北文安篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/246a3ae39f2a4cd295ff0af1de907eea/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北临西篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/4de26a50913f4181a40c3310032e73e0/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北丰宁篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/6d591af5357649cc90169801cf257716/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北南和篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/749d778921054a62a1791eb9308aa417/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北故城篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/ca7b0f0aa4934f648968bdf8bfbda1e3/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北井陉篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/3f8eba772e72463295330c9078c4cf91/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北广平篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/bfdcfbfffe474293a899adf4c4c4b962/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北曲阳篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/e9534a65d82442babce4467680d18d4e/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北安国篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/2cd1278bfb674211840b369a05795721/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北昌黎篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/6f5a6ed74e6d4fa3a4045e5a705352c4/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北南皮篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d7d0536955044c2e934b9ef319705af7/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北平山篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/69cc2ff049c54414ad8ac4c99322ba76/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北大城篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/63cacd7177694f78b3eac557854ad1ca/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北雄县篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/a2286516762042499b6bb5631aeca1f3/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北赵县篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/8a8862557a7540c5b04e62d5aefa0860/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北临漳篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/8b972bddd5634cda8296649e98045aa7/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北沽源篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/db812c3d6bc94cc897ee87714de70771/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北隆化篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/6c8c69426e2542ddbb3c16995a64ff64/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北安新篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/bdac30b9826749ef8e8bcb1a7e20cefe/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北怀来篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/ba42778872db4366b98bf04f2d3c1751/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北馆陶篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/ff6225b37f024b679b27f9842d1e0efc/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北阳原篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/7816bae7daa045b1a03ebe8240e5aec8/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北内丘篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/cc862d2803664e9fbd97ad67b3eb259d/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北围场篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/34b07fd2465c4895852399ecfc52f23b/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北隆尧篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/a8de7307187f4f7a8adf9d46896a6e0c/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北蔚县篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/c957c227809a4e02bd3777c9d4ebf047/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北涞源篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/3832e9bd22584184b105c93a4ec71796/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北涉县篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/1750440aa6f94f7993119a3d88c9295b/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北遵化篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/575525ca71bd402fae2b26f68d7e52bc/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北滦平篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/64183c229c4d467a9bc700b696cc9f9f/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北平泉篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/324147d05f0f408fb8aa928c401341a1/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北滦县篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/6d8c2dfcee49449781ca193621700114/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北高阳篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/5b121083791b486f903119832556b2ab/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北卷巨鹿篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/59d54b61eb6d4377b2d54dc26602eeae/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河北定州篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/849e61a3d1f649dd9bf3639533f58cba/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西平定篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d3243801b883430385cd9d40426d5a31/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西永和篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/1f3b2bed45cc498ca0045de1c69b7c63/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西霍州篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/df102010ed67431fac72de5349e87caa/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西昔阳篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/7be8dccb0d0848f78839736b17161efb/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西绛县篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/af82487ff3d0492cabf4504b85fa7315/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西临猗篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/9f598fc2ce8e4e82bdea157c34efcaff/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西万荣篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/51a14508faea4097be8a1111bcbaab18/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西左云篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/3bde0851c10448a88738eeed4917d160/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西寿阳篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/9b6e927cd222431ebed2c1bb7d4e054a/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西交城篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/f01569bbd7db46138fe2a005672e4470/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西文水篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/037e5203adb9401eac22eb64cf888a67/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西临县篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/883c446520e440aaae907731bbab69ef/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西灵石篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/a68ae4ae84c5491c942655f118a03232/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西原平篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/e63bb6fa4d8f48d5b8671406d72713a7/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西灵丘篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/704e78a2c95d4d9dab185b4f60ed7393/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西河曲篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/1b95526e752a4296b87b38440de16d23/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西繁峙篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/ccf38178b01c46b98bec045d44306922/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西侯马篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/8183a7522f054ebdbbc3d7befb5e00ca/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西太谷篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/3345133493a64af09856e4ca134f9335/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西广灵篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/6a255d54fa8744eeaad01025ce8c6d79/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西五台篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/dc97c50736494a87b6222dccdc51c955/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西宁武篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/6bdbf7f8c9cf4a31a93feea45f5b4f41/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西芮城篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/cf23986e91cf4d6e9acdb50d1e1b5fe7/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西沁源篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/03e029923a07438fbfa3afcc0b9f98e7/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西介休篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/4ef5fe1100c8483ba3502025a2b68344/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西黎城篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/58f17fec7cf142069097a8a6a1113db4/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西浑源篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/4c1257dbd88f4f9b86ae7497200cb3cf/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西泽州篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/7b6d7d7a74eb4ed7a8bbaf6d83ef77fe/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西夏县篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/c1b7535a248b4304a625d88d0dba560e/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西陵川篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/bffe1d93baa34ed1974a3347217acb3f/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西高平篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/0da2bebb281b4d1d99547f4ee3786646/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西左权篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/7775303b72fe418a8f58f2e9d5551534/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西阳城篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/b03e5b3917ee4146bda92f4dba6561f3/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西闻喜篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/db6b465e496b46b19405810c7f48a92a/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西壶关篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/45d9f94a75eb4be09dbb6af3f5156a44/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西汾阳篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/313c5ffdaa264271b0b999704f8b41cf/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西古县篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/1ab64bbe9a694f02aafd81fbfe176179/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西阳曲篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/1a701e61fe154cccb58a0be496a5e6ea/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西孝义篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/e055232d8b964605a3fc7624deb2401d/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西祁县篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/7171cba5d46647818a1b550515c82f44/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西清徐篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/ba047f923fc34623891cd6fc83651ef4/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西新绛篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/e3e005db132e4f0fb7be979e09f7c258/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西平遥篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d57b9c72bbb4425480bede5510b4bdd5/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",山西永济篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/6292e7b0e11146adbe47edfd7655e248/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河南长垣篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/f55f876ba56946d5b36dee497128db03/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河南夏邑篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/35f263cb58724619bdd0854ed54f41c6/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河南新密篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/f2e015f378114779bfa779154bf735af/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河南舞阳篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/41faea71016646d48f8f919b346f0fc6/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河南罗山篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/b2ad33ac65f1496486e20989fe22f194/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河南叶县篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/cb15b8e42ecd422faf44277312677fa9/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河南光山篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/7cb59971715f4a9b99d9f17dca7a1eb6/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河南柘城篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/e035c59ac92c47648d67c8b26c134a21/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河南南召篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/5a50e82f7baa48be8cf7aa51c8e5a2f6/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河南息县篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/a36e44b76c794c8db3797e51139a0151/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河南卢氏篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/e43ac0f0c62747c98dfb4dc2c3a4dcc2/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河南沁阳篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/feae9731a15649818e117719d1ef9ff3/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河南清丰篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/982ff70776674b6ea158f09b99e743d5/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河南淅川篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/0bf33a5fed5d40edbe602c89a801fa3e/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河南宝丰篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/0cbd18c65a874008a1f4599dd2710dd4/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河南确山篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/e40b05a0a72d44fb9374e7699d9b7926/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河南兰考篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/a4bb2f7473ba4056a599fd738b77903b/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河南修武篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/3a624bcc7d264cd480d175bbb48b49b7/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河南淮阳篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/973a739565ef4aa1a9feb59338da22f6/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河南鲁山篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/6932a5f846d74c49bc0ee1c3e91342f9/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河南温县篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/b8cd23ba3dc642febd8120be89d7bc28/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河南民权篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/f39b6db9790b403285f1645091f35a05/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",青海河南篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/55e01c4a89904202971ea3e3651a5c25/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河南新郑篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/823587c87f1545c9b97be408e5c7963d/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河南封丘篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/a5e440bee2a043db94fedfb8cd7fa7b1/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河南遂平篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/e0585f45196c4b29b9f33ccae2f14319/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河南郏县篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/2aeb4a1bbdcc4bd0b35246d5a16b5957/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河南新县篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/1dea130ba8ce4f8c81f79ff2d69d8f99/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河南新安篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/74da9d2d03694d879d47bad822dffc38/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河南卫辉篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d6587687eebd4b4e9e9fcb3f52a0679b/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河南禹州篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/8e1dbc74c55d4476b79e286b42d99ce5/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",河南灵宝篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/34651bfa3d1f421cb298edf36fb0bd53/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",江苏滨海篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/8a8ffcffa2f7435b9e356c8da47ae43a/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",江苏泗洪篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/616d2986d48f4fe995cefaeaa26beddc/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",江苏张家港篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/49332eba7f194c28ae71161b9247f3bc/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",江苏邳州篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/52e40f3203784786b375b532db653af0/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",江苏扬中篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/c8a1ccd05e424b56a2d169bd5838332c/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",江苏盱眙篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/3ec0bd708d304bbc92f008339e6dfd79/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",江苏丰县篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/2055488f67cd43ab96b4764f3392dd5c/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",江苏海门篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/2eeb8510a1cc41c7a9aff3d60771a06d/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",江苏兴化篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/91a4f54afb5e4ef28a776be6fe4d5080/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",江苏溧阳篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d301c3f0aba1495385b2d3e352570d8e/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",江苏建湖篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/0d515b6c3a1e4d3e9bafa007b8c96de4/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",江苏如东篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/3a3ab173909c4ce19149dbe64b694421/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",江苏江阴篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d3514b7cf9ed41929bc153088eede5db/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",江苏宜兴篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/7fc764bc2b724e7f94d48581c8954b04/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",江苏阜宁篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/6ff72ab8c5cb4fc9b9208e476e87b111/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",江苏仪征篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/e81372cb47a740dca4db6c39c3d13e5c/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",江苏宝应篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/f8a4334893114001aaa828eb2b90717a/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",江苏启东篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/c60ef08e7dc84ec6a624113cd640e904/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",江苏新沂篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/886767ff1b554fceade2aa1e178fe3a2/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",江苏靖江篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/6197ec1b2cb24c0080dd38e9b10df5b7/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",江苏沛县篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/4cf3c6bbfbce4322aadd523b7af12136/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",江苏句容篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/b6acc201ba084bd0833370cb9ae8c0e1/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",江苏高邮篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/b0be0be98c724242ad25c87eda1ead25/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",安徽怀宁篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/99e9e895ff0841b688a78b0392e7b973/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",安徽天长篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/927c33693fff4b26942007335dec156d/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",安徽无为篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/1c133b14e2614966acd832c0fec242ee/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",安徽休宁篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/950e7a7be88c47c78be5ffb4691b6c18/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",安徽砀山篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/bcd1870842fc44e98d52da7e15ea8f3a/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",安徽来安篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/934d897c635743b5b9e3d41107a8da77/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",安徽繁昌篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/33dc411e203b4050a60a15a65a2f8cb0/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",安徽南陵篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d1b592f881d74c1bb41200f97f6e3dc8/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",安徽颍上篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/ed199a7006274e20867c1decb8b739a4/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",安徽明光篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/4da213576a994582b3f42a69d1e4e7f4/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",安徽凤阳篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/ff2fc39924634d6aa304744c33ea687c/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",安徽东至篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/ac5fcac905a54f6b90322052c821da0f/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",安徽宿松篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/9ab26c0c3a1a4676855ecff5f196fd80/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",安徽石台篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/fd8af19176694065bfff046e5693e744/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",安徽黟县篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/fc844c109ffa4a52aae48d208895cc7b/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",安徽青阳篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/0d85f8efecd34c0d8be8ae8949d9d687/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",安徽定远篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/ed072c9115d4455a96ec515d98cb4107/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",安徽萧县篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/b2069344a38d4bdf8f5c70b57ed30a74/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",安徽全椒篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/cb4e10fdbf7d4f518699d260e54d1264/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",安徽和县篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/6b4e47098d7d44d3a9c081b15db56e17/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",安徽枞阳篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/1ee0f790fe8743a9adc482c1d692647d/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",安徽灵璧篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/c25cb457b0d74f80b1320aa1f82721bb/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",安徽濉溪篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/23ce9276f6664e7086145f6e13adb1f3/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",安徽含山篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/69ec36028f364d5e8f00db78c94f20f7/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",安徽当涂篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/713128a8d2b946f3aeef61180727ea9e/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",安徽阜南篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/a8e349fafc6e483cb7c87df0405f3089/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",安徽寿县篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/1138dd2b178d40b3973ae5ab7e30b525/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",安徽广德篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/2ebc992d8b7c4c1aa99b9bdd1dfab5f1/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",安徽固镇篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/156ef95d1d394956bcfe8dd00a2ed370/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",安徽旌德篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/7c2ced192612480bb988ed2f8fd45415/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",安徽桐城篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/9f90061a97ca4e0ea6c8d050fa273e5c/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",安徽潜山篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/f7c14797ca5e452587ebe27033b404b4/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",安徽泾县篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/b56558f4a203456ba4e6d538be60ef04/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",安徽歙县篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/05cdeb41b0ac40f891a3c85d4409c03e/2000.m3u8
+#EXTINF:-1 group-title="黑吉辽冀晋豫苏徽",安徽蒙城篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/758c2bcacfeb4141b95a37b90650b304/2000.m3u8
 #EXTINF:-1 group-title="云贵川渝陕甘宁青",云南永平篇
 http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/fc54ba3428e740f7a0ed11cc0a656017/2000.m3u8
 #EXTINF:-1 group-title="云贵川渝陕甘宁青",云南威信篇
