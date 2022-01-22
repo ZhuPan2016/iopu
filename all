@@ -1517,3 +1517,473 @@ http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/68071e5947344ba0a0a6
 http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/8453a2bd4e51475f9ef8a5c235b38e20/850.m3u8
 #EXTINF:-1 group-title="彩椒种植",辣椒优良品种介绍(20130410)
 http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/3375b4c9afb04bd2b762b5b6a8830e10/850.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南永平篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/fc54ba3428e740f7a0ed11cc0a656017/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南威信篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/dfa5bb299b6b4351be2f436d8776a9a9/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南峨山篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/4e6d178f40704fcd8bc549638d7d5cd5/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南陆良篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/4e1d61f09ac74fa08f46bbf083ac4b7b/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南马关篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d4ff194124cf4f26a4b33dbd28519cbd/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南兰坪篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/9c73d7c505eb463fa7706b72a80b7346/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南开远篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/603d2fe4963547aba4ec9d82ded84346/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南罗平篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/5a3b35487f74436dace3cc788c9dc1b8/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南凤庆篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/479318ba868141828d6fb80773c7c2b8/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南宣威篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/40a84e2ec39540b392d51db91d17e959/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南镇康篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/f3b83ff9dd244a3d8cd226c04affa5aa/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南绥江篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/6c68af9be03e4b6aa1b602d80dd9f5e9/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南广南篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d9ef95c3281b45939eaf7eb6163ebbef/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南景谷篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/55e7da7d20cb40a6a648fac167ee9290/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南勐海篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/213eb3e1421345059da6c0894218f580/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南瑞丽篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/a025668cd40d4485ae589328b49682f9/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南孟连篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/42671607053e44e0980a66779057b625/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南鲁甸篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/e271fa8a71ff46bdafe43b8c7a281879/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南砚山篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/41aaebd548dd4eb28fcc8d52f35020d9/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南沧源篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/2c62ab36c7de40aeb40f9ae05d8c0420/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南芒市篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/341140abfcf9454bbb658ab0b124b250/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南巧家篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/040b6f9a599a4c4f9ac36873dd78a1ef/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南双柏篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/4a1950d33fbd439e84116bafec97d7df/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南贡山篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/36868fc650224acbbd804efed093fc9c/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南新平篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/7172862e14f9452caa935047637cd8db/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南弥渡篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/c3fcfd2768cd4935a75649df43e4b6aa/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南祥云篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/f0dc2773015f47c7a0a93c4bd993791a/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南剑川篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/3985b3658c724caa9c4772344574a536/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南大关篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/a0155a9222c145b489d43e0c42b4e6b5/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南弥勒篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/5fc88d5152ef4cb09e54836555f77fd3/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南通海篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d4efbd620b0c4873b4f31159b0c3d6ff/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南漾濞篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/8d628715d022492faedcaa7f0ce43d6b/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南红河篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/3a4bad6067574e458a91e0c76f603f2a/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南梁河篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/522497e8902044289e6e1d9843489e5a/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南盈江篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/9e1a525213964b25abf6d52e9844ac83/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南腾冲篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/24f11d622db040fc83359741f1fe95be/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南蒙自篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/b2386d33a53d4c439a53dbc2925072ab/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南玉龙篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/650834e444124d038a322c14ad90dbdd/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南澜沧篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/5335c3cbdeae49738afa67cf14c080bb/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南姚安篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/cbe285bd33154221b0925cf291245d45/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南安宁篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/6273b8b00c4e4932b5e3c8f3a4aa3ebc/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南会泽篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/3f566660d42c4f5498e6715e2229e3bd/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",云南建水篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/7b5a016521b2415a98b7195f50c147ba/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",贵州兴仁篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/2edc7300fddd4e0d9d1d19479a48b79f/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",贵州纳雍篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/c741cef218504cb4b589a083d8578cdd/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",贵州贞丰篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/478354cab0d5400aaa8687366628c1e5/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",贵州沿河篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/77733cb7a5fd432fb85d81b6e4baf167/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",贵州台江篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/b13ae2f4f5e7466da5231c81e9942e5a/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",贵州印江篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/6d17e78823054d60a9b7235e93b1d232/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",贵州德江篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/5ce34c2f7e0e4ff9bc0ea160131d8959/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",贵州盘州篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/45b4142c4ee04ff390daae5ba16d2581/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",贵州独山篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/5923cb3859244c99aecd8e7aa99f0395/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",贵州三都篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/0a0c0b3e4fa942f891eb421d0e4995f6/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",贵州余庆篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/49b071e297624bbc91b23394c965c934/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",贵州惠水篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/309d9854f7e945109bfc0d76628bc2cc/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",贵州惠水篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/a69934666c804cf39499b84d8ff7d594/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",贵州紫云篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/746989dbc2554d01b7307e112b2ab4aa/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",贵州雷山篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/6d8a0e985ef44d0f9e88bf9f6df8ad25/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",贵州都匀篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/bf21c6df57ce421989a6998af8cbdde1/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",贵州金沙篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/1ca3357aba254eab9634799a59014452/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",贵州荔波篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/26e57a3eabde482196dd1cfe1415b8be/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",贵州长顺篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/b9f31337a3bb40bd97bcb9cd3c2532e9/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",贵州赤水篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/aeb0a15b52964d04a03ddb8497a24bb5/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",贵州石阡篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/a1c40d2874294bc7b90da059429b64ec/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",贵州江口篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/c4cb65f8faa7467fbc19f069a1ae36e5/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",贵州织金篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/8e39da370397438091b84d552b497ec9/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",贵州锦屏篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/abbffb317f7f4b439f251cebb34e5cea/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",贵州平塘篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/f5314dcd2fa944328105696bf3423dea/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",贵州松桃篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/933aada065374b37b3ef2a3ebe8007dc/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",贵州水城篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/af24016f48994b22a8b32c0f514d2a09/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",贵州凯里篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/0bf20ef6638246d9a33c104d956d038b/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",贵州湄潭篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/4645dd92ab044ac8944e65f5c88f9263/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",贵州思南篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/5e5b447351e941138f6a6c7dcba65c24/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",贵州施秉篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/a5ffa9a2954d4827a10ee0b79e944eb2/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",贵州道真篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/8a0b9bdbb3a749738bf2550a940356ee/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",贵州黎平篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/107964c07d6f47c3a3a23394ef50bcda/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川筠连篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/121f6ecfd6db440d97086cd4a42369a0/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川阿坝篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/437544c199ae4ed5a3d8bfa30e635b51/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川南江篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/115f1d11272f48f680cb69cde030fdd9/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川蒲江篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/02507f40052c42979765f9019ac8a410/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川资中篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/2a0f50b722f34973872fa847059e7bb6/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川平昌篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/12b09896ff144a87ae8c53b051afef65/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川剑阁篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/16a3d39989f84faeb179e856eefab9f4/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川大英篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/4d623ed667c14d56b19697f0a69b2db3/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川兴文篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/f81f5304758d450ebb28bc9b50d0fe9a/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川安岳篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/c7a37ee7d19b446483633a88a254b866/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川米易篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/907f0bc707ca49829d0ec5566032fd82/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川理县篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d6d56e6a72d54bb28abcd9a444fc7978/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川通江篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/a0f487b247c44591a0cdd9dcb7243623/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川三台篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/8625446515d84a20995563ff1e9ba5b9/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川威远篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/e5b0828eaa8c4686b30aebb221a506da/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川青川篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/cee8611748a24bf9a096223dcc403ca2/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川开江篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/6e5017e4a60248139e768adf478fe522/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川理塘篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/ef8e1b5ffd634d26ad0ee048ac48bf71/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川叙永篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d0f2f80700c449cc98ad76c7de9adb16/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川江安篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/53271583f1d64b608ed5165508e41137/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川乐至篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/1c1393797f5846638fdc1376a2277133/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川梓潼篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/644bdc0d841244bea1fe49711c056add/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川小金篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/22a318c1cf884e29a3e775f4dbe5efc4/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川大邑篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/7e2fca0d8efc4a5480d1afd50aa8a27d/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川汉源篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/c8f0a9999e7b4d58b52654a57268de11/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川乡城篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/09d601e329584d0c8c1dd65df01b74aa/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川若尔盖篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/667e77e0e3354ccbb8a82bd042c69590/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川营山篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/573b09953c1847718b261e40d5e411f5/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川彭州篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/225b42882d9e481aabdc34bd5b33f2b8/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川茂县篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/44b372f4a9eb48a69f1859f90110f0b7/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川丹巴篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d6405382b7b14b57adad33675f7b3c33/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川犍为篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/fc0c770976144b529f20c0129d95c1b3/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川渠县篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/586dde210f9948c58b3f09d0ba4ead1a/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川西昌篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/a8d01fd879144ffe822637f26dc84fa5/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川邻水篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/36391ebefba84e73b3afed821bd72337/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川金堂篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/65d92bbb6a184ef290e653789616c871/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川会理篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/daf2b77f51814fa0a7de33a2c4ebfc8d/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川宣汉篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/5469356e3c8f4e04a87403e502ba7324/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川石棉篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d6629188eade40a58a4b5ea5012bd540/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川天全篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/2180affd21d04fbfb23fc05a7ec0203e/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川苍溪篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/bd9041da3c474ae79c7ee3343d585615/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川仁寿篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/128ce489cda34c388712b63d47d195d5/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川什邡篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/268e5ed3cfd54e7a9d82fdb089af2ed6/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川长宁篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/ebfa8d62985a485c9339b2a6a0499431/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川旺苍篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/edb7a16c851e4130b3f68564f423121d/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川沐川篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/7a299124fbdf41cbb305a5b220164a85/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川芦山篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/6e0dca04d5504c2ea97ad94b1d7bfa28/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川九寨沟篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/363f97ce864d41cb8026e0c434e3014b/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川盐亭篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/b80848b6dd704be68925612a4bf1d6db/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川合江篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/51ff3d6f3886402f83c638672dca5361/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川北川篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/0ea2fe48a62f4dca96cba28cbe30e601/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川峨眉山篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/a88ae86469da46ab8c2b37f8d3eb5b01/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川德格篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/44dbb491276342c39a051f1eb2f41218/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川新津篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/5b302b17a665488b9d99a4993ffd92a3/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川井研篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/9daa3b1e80b340e88b1b9141db761988/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川中江篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/ea445e3c62f64685a706365a2b3a9c48/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川宝兴篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/e35e957a28a148f49e3e2509d12cb3cf/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川绵竹篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/2db9c651e07d4973a1c4f4b411991fd0/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川松潘篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/2fca35df4c9e4f4d8120f7408df621b2/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川江油篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/3edc9e7f19054be19ef6b4849040c670/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川雅江篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/e3ed89dc300c4929bc23a3380eab926a/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川都江堰篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/3825a2010077456fa29e21bb4ea00146/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川纳溪篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/7cc473fc6eae402ba24832ac7b64c90c/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川洪雅篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/7ed48e015350473daa36d86aae9cf58b/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川阆中篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d74cf68ac9964129afdd9419b8afb3fa/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川邛崃篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d176283233b0492cb566d98348aa6026/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川崇州篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/fc81352bc9aa453fb6c31131c93cb127/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川金川篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/537ba121ada849538d42c0fce5d62578/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",四川富顺篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/6147c008f7ff4ddb883060a7dffb9ebe/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",重庆巫山篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d5e36927ccfc41adb413788615a383c7/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",重庆秀山篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/c7fdcb39e0974ef99edf81252565e44b/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",重庆云阳篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/af386dbaea4e4a65ab35ab09f99474fc/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",重庆忠县篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/1f442e62da524d7ebf80439ea60bf771/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",重庆奉节篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/7a138753fff74e36b0530d4e2b509300/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",陕西镇巴篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/ee0196dba9674d28a4a80b6a2a883e30/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",陕西汉阴篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d3f9aaf787ea4218ac1e11f053f68a3f/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",陕西石泉篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/cd48f75858774e2eb0b6aadefd0e46d3/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",陕西佳县篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/6fea1870f944446888b0097cffcf0931/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",陕西米脂篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/4190711c3bf64f20842ff52f345b526f/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",陕西白河篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/ef4b1c879473410da8fa2a7bfd2e80a1/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",陕西泾阳篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d7c956e90ce146609eaaeb306f0eb220/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",陕西黄龙篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/86c331fd53e84aacbbaf63e8359bfd03/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",陕西兴平篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d8d0f7ecac4445d1a99731eaf8cec127/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",陕西洛川篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/b2701c6a3ffc4701ae8a779d81940b38/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",陕西清涧篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/7c4625df072f4b539d92d5f352cee53c/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",陕西韩城篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/0d6582af075f4d898a6d3593d1bcfc10/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",陕西勉县篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/27837e1636894f1caa6446513a8b8374/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",陕西宜川篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/96105127514f47eda67418427e9f8b73/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",陕西三原篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/0023a8e030fc42b29c8b3ad950fc68d0/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",陕西周至篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/f77d5d179f3649ec8cdb1015b881a7e3/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",陕西神木篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/b2300233e73e4d8a9b4fd1b43cc4627b/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",陕西大荔篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/1b41935a90374912882d56944c5feacf/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",陕西靖边篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/5bfa0528355a43f39f100b1004fde237/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",陕西旬阳篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/ff7d0bcacfa04a72ab8b6fb08e881dfc/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",陕西紫阳篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/20c0883326b648b4bffa82dd5867d0a2/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",陕西子长篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/4953bda6a2274e52bffc33ca0a4f3acf/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",陕西华阴篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/9dd64b69a10f4f039936394ca57109b5/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",陕西扶风篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/4bf30fddf16641f7abf98dc88e6edfa0/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",陕西南郑篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d89d67a4b080472fab98ec6b91cb2b03/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",陕西宁强篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/3ebdb228b89b4c86985e8fd6e970208e/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",陕西蓝田篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/ac6a6e9874b14cd49a7dca8f6e44a3eb/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",陕西合阳篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/e6915ccf315146638d657e779f85edc2/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",陕西洋县篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/2f4d724fe80541338e6048f747bd3733/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",陕西城固篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/5b53087fc664447bae02c7ae34bc85ec/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",甘肃广河篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/be1ef74a30324ba38b36b54c8ced79dc/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",甘肃肃南篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/f1d06bf0d2994e68b947fbea3ab83265/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",甘肃碌曲篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/dee51dddb006454da9051983d94ffffc/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",甘肃宁县篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/62e68c8fac014ca6bbc69be3d770dc07/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",甘肃崇信篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/8ba902aff3754c58a61d233aa19798f4/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",甘肃泾川篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/ecd9ef08d7c9430588a847ee1742fc9d/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",甘肃静宁篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/e5410440ff734d5f9fc0875ffb4c6276/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",甘肃靖远篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d1b0173e5666461f8f3d8fa13094f2e6/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",甘肃陇西篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/85c85d560e48457b99e183ef533f3923/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",甘肃岷县篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d911a540b6f24ba183b886c41a021d7b/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",甘肃和政篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/5f3f399ce5f64fe8b60591ddeeda1519/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",甘肃渭源篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/92c7bbe7f1704750b830d26458500277/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",甘肃康乐篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/ee074a695b8b48bc823a58bc0b26190b/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",甘肃甘谷篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/7f179b589d56402ab097178cd68b5d15/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",甘肃积石山篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/b0fff3252969482a926b0f1786b799c4/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",甘肃环县篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/80a0d4ac6cce408485c81973e099b4ef/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",甘肃卓尼篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/4d0a26b8759f403a88efe60cf4bec2c6/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",甘肃庄浪篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/47c65a4e338d48abae979926dc0f2768/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",甘肃阿克塞篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/7123780b88b24479b1fdcd2f67f03386/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",甘肃迭部篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/2b8b8b403fc14955b4255948b3d32234/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",甘肃武山篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/80a2f95259f04e8880241dcd7f6d424d/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",甘肃秦安篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/abc00e53d89a4bedb0caf3958e245fe5/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",甘肃玉门篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/64d9946970914af8b0f2595a620336a9/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",甘肃灵台篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/f388f74e741d481e860db1b7e77459ae/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",甘肃敦煌篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/2a0224b32b30488f862e917d3996ce29/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",甘肃永昌篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/b6bc2fbbe02b4835b618b6b983e82898/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",甘肃民乐篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/5926258404bc4f47918a0eafa8a9dfca/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",甘肃临泽篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/fa61af672e67432c9d82bbcb56ef19a6/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",甘肃礼县篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/f380a56f74814c0e9eed2cffbfbd9775/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",甘肃景泰篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/f163163a29ad459c803b0204599723d6/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",甘肃华池篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/e85931b3738a45ae9dc323b7bc7d163a/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",甘肃西和篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/9e818903d367456cb3288d47953c0c68/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",甘肃民勤篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/df6bcf61f8574ff09bb18c0e84e4afb6/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",甘肃庆城篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/e8a9b889e19f4598b5ecdcb7e359dea4/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",甘肃会宁篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/bd439530896344a699ef81b38ea0f91e/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",宁夏彭阳篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/4cc4a3ec1e854d8c84c7ade1f651d75e/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",宁夏贺兰篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/1e65d0d936a743f1a4ecf20e9f5003d6/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",宁夏西吉篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/24ac6078b8f14add8a2fdc20526789aa/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",宁夏青铜峡篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/1c129638294d4531ad79e4f21794fca6/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",宁夏海原篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/6bb1e5cee03740cbb2613daec3bb072e/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",宁夏同心篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/894915d328fa4d2db23102004598bc42/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",宁夏永宁篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/209e22a52e9a4fa4abb941f3956a6e8f/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",青海湟源篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/78e14dd7b9c34392a9ad787eb791c93a/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",青海乌兰篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/1636661b96dc47e1acf87f3e07641f3e/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",青海民和篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/3909bd99411f46c5934620944159fc1f/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",青海尖扎篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/0c47eda536eb4517b9bf033ed8f65d20/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",青海德令哈篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/46b0ac5ba1a84ec2832fc171fb22878b/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",青海天峻篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/6c4aae16d5d740358dceedd79d33f33d/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",青海乐都篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/ed50108da27f4eb393e0810aaecc70e3/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",青海湟中篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/f94c89990aba46f6b6a9ddae9b855b6f/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",青海格尔木篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/b71b9b6bbe9f420e8cc914d66e6a8da3/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",青海都兰篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/5404f5a750f24829b52a68bcb001b6bc/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",青海河南篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/55e01c4a89904202971ea3e3651a5c25/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",青海互助篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/08d849776c524e2490250dd2c0110257/2000.m3u8
+#EXTINF:-1 group-title="云贵川渝陕甘宁青",青海玉树篇
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/e32282f57c674eecb35c161682ea7026/2000.m3u8
