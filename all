@@ -385,6 +385,10 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000336/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000338/index.m3u8
 #EXTINF:-1 group-title="高清节目",山东教育卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000331/index.m3u8
+#EXTINF:-1 group-title="高清节目",新泰乡村
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001066/index.m3u8
+#EXTINF:-1 group-title="高清节目",新泰新闻综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001029/index.m3u8
 XTINF:-1 group-title="高清节目",SiTV都市剧场
 http://223.110.236.12/ott.js.chinamobile.com/PLTV/3/224/3221227710/index.m3u8
 #EXTINF:-1 group-title="高清节目",NewTV潮妈辣婆
@@ -449,10 +453,6 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000202/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002005/index.m3u8
 #EXTINF:-1 group-title="高清节目",Hot欧美影院
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002003/index.m3u8
-#EXTINF:-1 group-title="高清节目",新泰乡村
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001066/index.m3u8
-#EXTINF:-1 group-title="高清节目",新泰新闻综合
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001029/index.m3u8
 #EXTINF:-1 group-title="高清节目",济南新闻综合
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000312/index.m3u8
 #EXTINF:-1 group-title="高清节目",济南教育
