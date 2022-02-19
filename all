@@ -38,13 +38,21 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000015/index.m3u8
 #EXTINF:-1 group-title="流畅",CCTV17
 http://223.110.235.17/ott.js.chinamobile.com/PLTV/3/224/3221227639/index.m3u8
 #EXTINF:-1 group-title="流畅",CCTV发现之旅
-http://183.207.248.136/ott.js.chinamobile.com/PLTV/3/224/3221227030/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
 #EXTINF:-1 group-title="流畅",CCTV女性时尚
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226237/index.m3u8
 #EXTINF:-1 group-title="流畅",CCTV老故事
-http://223.110.235.8/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
-#EXTINF:-1 group-title="流畅",CCTV高尔夫网球
-http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221227601/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
+#EXTINF:-1 group-title="流畅",IPTV3+
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226341/index.m3u8
+#EXTINF:-1 group-title="流畅",IPTV5+
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226342/index.m3u8
+#EXTINF:-1 group-title="流畅",IPTV6+
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226343/index.m3u8
+#EXTINF:-1 group-title="流畅",IPTV8+
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226344/index.m3u8
+#EXTINF:-1 group-title="流畅",IPTV相声小品
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226346/index.m3u8
 #EXTINF:-1 group-title="流畅",山东教育卫视
 http://223.110.235.6/ott.js.chinamobile.com/PLTV/3/224/3221227580/index.m3u8
 #EXTINF:-1 group-title="流畅",内蒙古卫视
@@ -254,7 +262,7 @@ http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM
 #EXTINF:-1 group-title="流畅",诸城新闻综合 576
 http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001004/index.m3u8
 #EXTINF:-1 group-title="流畅",牟平新闻 576
-http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001006/index.m3u8
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001076/index.m3u8
 #EXTINF:-1 group-title="流畅",五莲新闻综合 576
 http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001068/index.m3u8
 #EXTINF:-1 group-title="流畅",平度新闻综合 576
@@ -419,8 +427,8 @@ http://223.110.235.7/ott.js.chinamobile.com/PLTV/3/224/3221227600/index.m3u8
 http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221227536/index.m3u8
 #EXTINF:-1 group-title="高清节目",NewTV武搏世界
 http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221227533/index.m3u8
-#EXTINF:-1 group-title="高清节目",NewTV炫舞未来
-http://183.207.249.229/ott.js.chinamobile.com/PLTV/3/224/3221227475/index.m3u8
+#EXTINF:-1 group-title="高清节目",NewTV东北热剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 #EXTINF:-1 group-title="高清节目",NewTV爱情喜剧
 http://223.110.236.20/ott.js.chinamobile.com/PLTV/3/224/3221227548/index.m3u8
 #EXTINF:-1 group-title="高清节目",NewTV精品体育
@@ -575,22 +583,6 @@ http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221227701/index.m3u8
 http://223.110.235.18/ott.js.chinamobile.com/PLTV/3/224/3221227819/index.m3u8
 #EXTINF:-1 group-title="高清节目",邳州综合 2.5M1080
 http://223.110.236.26/ott.js.chinamobile.com/PLTV/3/224/3221227576/index.m3u8
-#EXTINF:-1 group-title="高清节目",甘肃公共应急
-http://39.134.39.39/PLTV/88888888/224/3221226250/index.m3u8
-#EXTINF:-1 group-title="高清节目",甘肃少儿
-http://39.134.39.39/PLTV/88888888/224/3221226289/index.m3u8
-#EXTINF:-1 group-title="高清节目",甘肃文化影视
-http://39.134.39.39/PLTV/88888888/224/3221226287/index.m3u8
-#EXTINF:-1 group-title="高清节目",甘肃经济
-http://39.134.39.39/PLTV/88888888/224/3221226252/index.m3u8
-#EXTINF:-1 group-title="高清节目",甘肃都市
-http://39.134.39.39/PLTV/88888888/224/3221226248/index.m3u8
-#EXTINF:-1 group-title="高清节目",兰州公共
-http://39.134.39.39/PLTV/88888888/224/3221226244/index.m3u8
-#EXTINF:-1 group-title="高清节目",兰州新闻综合
-http://39.134.39.39/PLTV/88888888/224/3221226242/index.m3u8
-#EXTINF:-1 group-title="高清节目",兰州生活经济
-http://39.134.39.39/PLTV/88888888/224/3221226285/index.m3u8
 #EXTINF:-1 group-title="山东",山东单县篇
 http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/7576e94c2f224be183d5ba94aacfbda6/2000.m3u8
 #EXTINF:-1 group-title="山东",山东胶州篇
