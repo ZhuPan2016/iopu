@@ -6,7 +6,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000051/index.m3u8
 #EXTINF:-1 group-title="流畅",山东齐鲁
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000052/index.m3u8
 #EXTINF:-1 group-title="流畅",陕西农林卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000072/index.m3u8
 #EXTINF:-1 group-title="流畅",爱生活
 http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000639/index.m3u8
 #EXTINF:-1 group-title="流畅",CCTV2
@@ -111,6 +111,8 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000037/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000016/index.m3u8
 #EXTINF:-1 group-title="流畅",海南卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000030/index.m3u8
+#EXTINF:-1 group-title="流畅",海南卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000078/index.m3u8
 #EXTINF:-1 group-title="流畅",深圳卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000024/index.m3u8
 #EXTINF:-1 group-title="流畅",湖南卫视
