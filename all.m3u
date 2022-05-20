@@ -55,6 +55,8 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226344/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226346/index.m3u8
 #EXTINF:-1 group-title="流畅",山东教育卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226238/index.m3u8
+#EXTINF:-1 group-title="高清节目",SiTV都市剧场
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000630/index.m3u8
 #EXTINF:-1 group-title="流畅",内蒙古卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000040/index.m3u8
 #EXTINF:-1 group-title="流畅",新疆卫视
@@ -409,6 +411,12 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001084/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001036/index.m3u8
 #EXTINF:-1 group-title="流畅",高青综合 576
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001023/index.m3u8
+#EXTINF:-1 group-title="流畅",沂南综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001096/index.m3u8
+#EXTINF:-1 group-title="流畅",沂南温泉旅游
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001097/index.m3u8
+#EXTINF:-1 group-title="流畅",兰陵公共
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001095/index.m3u8
 #EXTINF:-1 group-title="高清节目",CCTV1
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
 #EXTINF:-1 group-title="高清节目",山东卫视
@@ -468,7 +476,7 @@ http://183.207.249.175/ott.js.chinamobile.com/PLTV/3/224/3221227771/index.m3u8
 #EXTINF:-1 group-title="高清节目",上海纪实人文 8M1080
 http://39.134.144.6:8089/PLTV/88888888/224/3221226499/index.m3u8
 #EXTINF:-1 group-title="高清节目",金鹰纪实
-http://39.134.144.6:8089/PLTV/88888888/224/3221226386/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000334/index.m3u8
 #EXTINF:-1 group-title="高清节目",北京卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000302/index.m3u8
 #EXTINF:-1 group-title="高清节目",东方卫视
@@ -535,8 +543,6 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000331/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001066/index.m3u8
 #EXTINF:-1 group-title="高清节目",新泰新闻综合
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001029/index.m3u8
-XTINF:-1 group-title="高清节目",SiTV都市剧场
-http://223.110.236.12/ott.js.chinamobile.com/PLTV/3/224/3221227710/index.m3u8
 #EXTINF:-1 group-title="高清节目",NewTV潮妈辣婆
 http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227527/index.m3u8
 #EXTINF:-1 group-title="高清节目",NewTV中国功夫
@@ -605,6 +611,10 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000312/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000069/index.m3u8
 #EXTINF:-1 group-title="高清节目",临沂综合
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000120/index.m3u8
+#EXTINF:-1 group-title="高清节目",临沭1
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001094/index.m3u8
+#EXTINF:-1 group-title="高清节目",沂水1
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001098/index.m3u8
 #EXTINF:-1 group-title="高清节目",兖州新闻
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001051/index.m3u8
 #EXTINF:-1 group-title="高清节目",兰陵综合
@@ -671,6 +681,8 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001073/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001039/index.m3u8
 #EXTINF:-1 group-title="高清节目",茌平综合
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001048/index.m3u8
+#EXTINF:-1 group-title="高清节目",东阿1
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001093/index.m3u8
 #EXTINF:-1 group-title="高清节目",邹城新闻综合
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001038/index.m3u8
 #EXTINF:-1 group-title="高清节目",邹平新闻
