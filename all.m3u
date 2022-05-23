@@ -9,6 +9,8 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000052/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000072/index.m3u8
 #EXTINF:-1 group-title="流畅",爱生活
 http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000639/index.m3u8
+#EXTINF:-1 group-title="流畅",中国天气
+http://39.135.55.105:6610/PLTV/88888888/224/3221227210/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="流畅",CCTV2
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000002/index.m3u8
 #EXTINF:-1 group-title="流畅",CCTV3
@@ -41,6 +43,8 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226208/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
 #EXTINF:-1 group-title="流畅",CCTV女性时尚
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226237/index.m3u8
+#EXTINF:-1 group-title="流畅",法治天地
+http://39.135.55.105:6610/PLTV/88888888/224/3221227176/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="流畅",CCTV老故事
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 #EXTINF:-1 group-title="流畅",IPTV3+
