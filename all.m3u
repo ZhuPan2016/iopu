@@ -476,7 +476,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000352/index.m3u8
 #EXTINF:-1 group-title="高清节目",CGTN纪录
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000353/index.m3u8
 #EXTINF:-1 group-title="高清节目",SiTV全纪实
-http://183.207.249.175/ott.js.chinamobile.com/PLTV/3/224/3221227771/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/index.m3u8
 #EXTINF:-1 group-title="高清节目",上海纪实人文 8M1080
 http://39.134.144.6:8089/PLTV/88888888/224/3221226499/index.m3u8
 #EXTINF:-1 group-title="高清节目",金鹰纪实
@@ -699,38 +699,6 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001034/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001082/index.m3u8
 #EXTINF:-1 group-title="高清节目",齐河新闻
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001056/index.m3u8
-#EXTINF:-1 group-title="高清节目",南京信息
-http://223.110.235.17/ott.js.chinamobile.com/PLTV/3/224/3221227730/index.m3u8
-#EXTINF:-1 group-title="高清节目",泰州1
-http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221228209/index.m3u8
-#EXTINF:-1 group-title="高清节目",泰州2
-http://223.110.236.26/ott.js.chinamobile.com/PLTV/3/224/3221228212/index.m3u8
-#EXTINF:-1 group-title="高清节目",泰州3
-http://223.110.235.20/ott.js.chinamobile.com/PLTV/3/224/3221228100/index.m3u8
-#EXTINF:-1 group-title="高清节目",仪化有线
-http://223.110.236.11/ott.js.chinamobile.com/PLTV/3/224/3221227702/index.m3u8
-#EXTINF:-1 group-title="高清节目",宝应新闻综合
-http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221228007/index.m3u8
-#EXTINF:-1 group-title="高清节目",宝应生活资讯
-http://223.110.235.18/ott.js.chinamobile.com/PLTV/3/224/3221228039/index.m3u8
-#EXTINF:-1 group-title="高清节目",常州公共
-http://183.207.249.176/ott.js.chinamobile.com/PLTV/3/224/3221227905/index.m3u8
-#EXTINF:-1 group-title="高清节目",常州都市
-http://223.110.235.19/ott.js.chinamobile.com/PLTV/3/224/3221227955/index.m3u8
-#EXTINF:-1 group-title="高清节目",常州公共
-http://223.110.235.18/ott.js.chinamobile.com/PLTV/3/224/3221227772/index.m3u8
-#EXTINF:-1 group-title="高清节目",常州生活
-http://223.110.235.18/ott.js.chinamobile.com/PLTV/3/224/3221227816/index.m3u8
-#EXTINF:-1 group-title="高清节目",常州都市
-http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227755/index.m3u8
-#EXTINF:-1 group-title="高清节目",沛县经济生活 2.5M1080
-http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227611/index.m3u8
-#EXTINF:-1 group-title="高清节目",睢宁生活教育 2.5M1080
-http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221227701/index.m3u8
-#EXTINF:-1 group-title="高清节目",连云港公共 2M1080
-http://223.110.235.18/ott.js.chinamobile.com/PLTV/3/224/3221227819/index.m3u8
-#EXTINF:-1 group-title="高清节目",邳州综合 2.5M1080
-http://223.110.236.26/ott.js.chinamobile.com/PLTV/3/224/3221227576/index.m3u8
 #EXTINF:-1 group-title="山东",山东单县篇
 http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/7576e94c2f224be183d5ba94aacfbda6/2000.m3u8
 #EXTINF:-1 group-title="山东",山东胶州篇
