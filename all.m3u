@@ -9,8 +9,6 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000052/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000072/index.m3u8
 #EXTINF:-1 group-title="流畅",爱生活
 http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000639/index.m3u8
-#EXTINF:-1 group-title="流畅",中国天气
-http://39.135.55.105:6610/PLTV/88888888/224/3221227210/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="流畅",CCTV2
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000002/index.m3u8
 #EXTINF:-1 group-title="流畅",CCTV3
@@ -467,8 +465,6 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000345/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000323/index.m3u8
 #EXTINF:-1 group-title="高清节目",CCTV15
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000346/index.m3u8
-#EXTINF:-1 group-title="高清节目",CCTV16
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000364/index.m3u8
 #EXTINF:-1 group-title="高清节目",CCTV17
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000303/index.m3u8
 #EXTINF:-1 group-title="高清节目",CGTN
@@ -547,44 +543,6 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000331/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001066/index.m3u8
 #EXTINF:-1 group-title="高清节目",新泰新闻综合
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001029/index.m3u8
-#EXTINF:-1 group-title="高清节目",NewTV潮妈辣婆
-http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227527/index.m3u8
-#EXTINF:-1 group-title="高清节目",NewTV中国功夫
-http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221227530/index.m3u8
-#EXTINF:-1 group-title="高清节目",NewTV怡伴健康
-http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227612/index.m3u8
-#EXTINF:-1 group-title="高清节目",NewTV军事评论
-http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227544/index.m3u8
-#EXTINF:-1 group-title="高清节目",NewTV军旅剧场
-http://223.110.236.11/ott.js.chinamobile.com/PLTV/3/224/3221227603/index.m3u8
-#EXTINF:-1 group-title="高清节目",NewTV农业致富
-http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221227588/index.m3u8
-#EXTINF:-1 group-title="高清节目",NewTV动作电影
-http://223.110.235.6/ott.js.chinamobile.com/PLTV/3/224/3221227606/index.m3u8
-#EXTINF:-1 group-title="高清节目",NewTV古装剧场
-http://223.110.236.10/ott.js.chinamobile.com/PLTV/3/224/3221227542/index.m3u8
-#EXTINF:-1 group-title="高清节目",NewTV家庭剧场
-http://223.110.235.7/ott.js.chinamobile.com/PLTV/3/224/3221227600/index.m3u8
-#EXTINF:-1 group-title="高清节目",NewTV惊悚悬疑
-http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221227536/index.m3u8
-#EXTINF:-1 group-title="高清节目",NewTV武搏世界
-http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221227533/index.m3u8
-#EXTINF:-1 group-title="高清节目",NewTV东北热剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 group-title="高清节目",NewTV爱情喜剧
-http://223.110.236.20/ott.js.chinamobile.com/PLTV/3/224/3221227548/index.m3u8
-#EXTINF:-1 group-title="高清节目",NewTV精品体育
-http://223.110.235.27/ott.js.chinamobile.com/PLTV/3/224/3221227615/index.m3u8
-#EXTINF:-1 group-title="高清节目",NewTV精品大剧
-http://223.110.235.26/ott.js.chinamobile.com/PLTV/3/224/3221227618/index.m3u8
-#EXTINF:-1 group-title="高清节目",NewTV精品纪录
-http://223.110.236.20/ott.js.chinamobile.com/PLTV/3/224/3221227547/index.m3u8
-#EXTINF:-1 group-title="高清节目",NewTV金牌综艺
-http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227541/index.m3u8
-#EXTINF:-1 group-title="高清节目",NewTV明星大片
-http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227594/index.m3u8
-#EXTINF:-1 group-title="高清节目",江西陶瓷
-http://223.110.236.13/ott.js.chinamobile.com/PLTV/3/224/3221227768/index.m3u8
 #EXTINF:-1 group-title="高清节目",湖南快乐垂钓
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000648/index.m3u8
 #EXTINF:-1 group-title="高清节目",湖南茶
