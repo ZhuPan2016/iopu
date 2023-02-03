@@ -74,11 +74,11 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000058/index.m3u8
 #EXTINF:-1 group-title="流畅",山东少儿
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000059/index.m3u8
 #EXTINF:-1 group-title="流畅",山东文旅
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000056/index.m3u8
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000056/index.m3u8
 #EXTINF:-1 group-title="流畅",山东生活
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000055/index.m3u8
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000055/index.m3u8
 #EXTINF:-1 group-title="流畅",山东综艺
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000054/index.m3u8
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000054/index.m3u8
 #EXTINF:-1 group-title="流畅",蒙阴1
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001031/index.m3u8
 #EXTINF:-1 group-title="流畅",东南卫视
