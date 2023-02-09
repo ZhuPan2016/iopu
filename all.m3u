@@ -627,3 +627,5 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001034/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001082/index.m3u8
 #EXTINF:-1 group-title="高清节目",齐河新闻
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001056/index.m3u8
+#EXTINF:-1 group-title="阿娜尔罕",1
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/7dccaf0060724f1f9bdae1e174b5e24f/850.m3u8
