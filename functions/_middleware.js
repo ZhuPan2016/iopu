@@ -28,7 +28,7 @@ function authentication(context) {
   </script>
   `
     const headers = new Headers({"Set-Cookie": "name1=value1;Max-Age=300"});
-    return new Response("Unauthorized", { status: 403, headers:headers });
+    return new Response(html, { status: 200, headers:headers });
   }
 
   return context.next();
