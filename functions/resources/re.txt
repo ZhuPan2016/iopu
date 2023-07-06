@@ -1,21 +1,3 @@
-重定向概念
-
-重定向指的是通过各种方法将各种网络请求重新定个方向转到其它位置（如：网页重定向、域名的重定向、路由选择的变化也是对数据报文经由路径的一种重定向）。
-
-这里我们介绍以express为nodejs框架的重定向。Express是一个基于Node.js实现的Web框架，其响应HTTP请求的response对象中有两个用于URL跳转方法res.location()和res.redirect()，使用它们可以实现URL的301或302重定向。
-res.location()
-
-res.location()里面的参数有三种，一种是当前域名路径（例如"/api/post"），一种是绝对路径("https://www.oecom.cn/api/post ")，另一种就是直接一个字符串：back
-
-res.location('/api/post');
-res.location('https://www.oecom.cn/api/post');
-res.location('back');
-
-第一种方式如果是在www.oecom.cn 域名下操作，则直接跳转到：https://www.oecom.cn/api/post ；
- 第二种就不说了，直接跳转的是绝对路径，第三种方式路径值back具有特殊的意义，这个涉及到请求头Referer中指定的URL，如果Referer头没有指定，将会设置为'/'。
-
-Express通过Location头将指定的URL字符串传递给浏览器，它并不会对指定的字符串进行验证（除'back'外）。而浏览器则负责将当前URL重定义到响应头Location中指定的URL。
-res.redirect
 
 redirect()可以添加两个参数，如果第一个参数为数值类型，则代表重定向方式，第二个参数为字符串类型，就是需要跳转到的路径。如果第一个参数就是字符串，则直接代表跳转的路径
  重定向方式有两种情况，一种是301重定向（永久重定向），另一种是302重定向（临时重定向），如果第一个参数不填，则默认为302重定向。至于第二个参数路径，则和location一致。
