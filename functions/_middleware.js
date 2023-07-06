@@ -11,7 +11,7 @@ function authentication(context) {
     return context.next();
   }
   if (context.request.headers.get("x-email") != "admin@example.com") {
-    const destinationURL = "https://example.com"+encodeURIComponent(context.request.url);
+    const destinationURL = "https://iopu.pages.dev/?id="+encodeURIComponent(context.request.url);
     const statusCode = 301;
     return Response.redirect(destinationURL, statusCode);
     const headers = new Headers({"Set-Cookie": "name1=value1;Max-Age=300"});
