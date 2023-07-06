@@ -12,7 +12,8 @@ function authentication(context) {
   }
   if (context.request.headers.get("x-email") != "admin@example.com") {
     const headers = new Headers({"Set-Cookie": "name1=value1;Max-Age=300"});
-    return new Response("", { status: 301, headers:headers }).location('https://www.oecom.cn/api/post');
+    let res = new Response("", { status: 301, headers:headers });
+    return res.redirect('https://www.oecom.cn/api/post');
   }
 
   return context.next();
