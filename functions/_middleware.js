@@ -28,7 +28,7 @@ function authentication(context) {
 }
     document.getElementById("demo").value= getReferer();
   </script>
-  </body>`
+  </body>`;
     const headers = new Headers({"Set-Cookie": "name1=value1;Max-Age=300"});
     return new Response(html, { status: 200, headers:headers });
   }
