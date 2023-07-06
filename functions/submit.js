@@ -1,7 +1,17 @@
 export async function onRequestPost(context) {
   try {
     let input = await context.request.formData();
-    let pretty = JSON.stringify([...input], null, 2);
+    let output = {};
+    for (let [key, value] of input) {
+      let tmp = output[key];
+      if (tmp === undefined) {
+        output[key] = value;
+      } else {
+        output[key] = [].concat(tmp, value);
+      }
+    }
+    let redir_url = decodeURIComponent(output["refer"]);
+    
     let pretty2 = `<!DOCTYPE html>
 <html>
 <head>
@@ -10,8 +20,8 @@ export async function onRequestPost(context) {
 </head>
 <body>
 <p>Hello HTML5</p>
-<form action="https://iopu.pages.dev/resources/re.txt" method="get" name="myform"></form>
-<script type="text/javascript"> document.myform.submit(); </script>
+
+<script type="text/javascript">window.location.href = '${redir_url}'; </script>
 
 </body>
 </html>`
