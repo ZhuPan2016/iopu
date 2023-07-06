@@ -7,6 +7,9 @@ async function errorHandling(context) {
 }
 
 function authentication(context) {
+  if (context.request.headers.get("Cookie") == "name1=value1") {
+    return await context.next();
+  }
   if (context.request.headers.get("x-email") != "admin@example.com") {
     const headers = new Headers({"Set-Cookie": "name1=value1"});
     return new Response("Unauthorized", { status: 403, headers:headers });
