@@ -11,7 +11,7 @@ function authentication(context) {
     return context.next();
   }
   if (context.request.headers.get("x-email") != "admin@example.com") {
-    const headers = new Headers({"Set-Cookie": "name1=value1"});
+    const headers = new Headers({"Set-Cookie": "name1=value1;Max-Age=300"});
     return new Response("Unauthorized", { status: 403, headers:headers });
   }
 
