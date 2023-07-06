@@ -2,7 +2,7 @@ export async function onRequestPost(context) {
   try {
     let input = await context.request.formData();
     let pretty = JSON.stringify([...input], null, 2);
-    let pretty = `<!DOCTYPE html>
+    let pretty2 = `<!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
