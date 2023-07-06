@@ -14,8 +14,8 @@ export async function onRequestPost(context) {
 </html>`
     return new Response(pretty2, {
       headers: {
-        'Content-Type': 'application/json;charset=utf-8',
-        "Set-Cookie": "name1=value1;Max-Age=300"
+        "Set-Cookie": "name1=value1;Max-Age=300",
+        "Content-Type": "text/html; charset=utf-8"
       },
     });
   } catch (err) {
