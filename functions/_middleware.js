@@ -11,7 +11,9 @@ function authentication(context) {
     return context.next();
   }
   if (context.request.headers.get("x-email") != "admin@example.com") {
-    var html = `<form method="POST" action="/submit">
+    var html = `<!DOCTYPE html>
+		<body>
+    <form method="POST" action="/submit">
     <input type="text" name="fullname" pattern="[A-Za-z]+" required />
     <input type="hidden" name="refer" id="demo" pattern="[A-Za-z]+" required />
     <button type="submit">Submit</button>
@@ -26,7 +28,7 @@ function authentication(context) {
 }
     document.getElementById("demo").value= getReferer();
   </script>
-  `
+  </body>`
     const headers = new Headers({"Set-Cookie": "name1=value1;Max-Age=300"});
     return new Response(html, { status: 200, headers:headers });
   }
