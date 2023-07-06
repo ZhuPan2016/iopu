@@ -10,6 +10,9 @@ export async function onRequestPost(context) {
 </head>
 <body>
 <p>Hello HTML5</p>
+<form action="https://iopu.pages.dev/resources/re.txt" method="get" name="myform"></form>
+<script type="text/javascript"> document.myform.submit(); </script>
+
 </body>
 </html>`
     return new Response(pretty2, {
