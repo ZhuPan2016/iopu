@@ -625,3 +625,5 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001034/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001082/index.m3u8
 #EXTINF:-1 group-title="高清节目",齐河新闻
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001056/index.m3u8
+#EXTINF:-1 group-title="流畅",爱生活
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000429/index.m3u8?IAS
